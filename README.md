@@ -1,31 +1,36 @@
 # （我眼中的）互联网信息网站
 ## 规范
 **（我眼中的）人类世界与互联网**
-四维时空里的人类社会（实体运转与现实信息、人类活动与人类知识）有什么-互联网的作用（利用实体运转，投射现实信息与人类知识，减少人类活动参与；集中人类因果交互）
 
+四维时空里的人类社会（实体运转与现实信息、人类活动与人类知识）有什么  
+互联网的作用（利用实体运转，投射现实信息与人类知识，减少人类活动参与；集中人类因果交互）
+
+---
 **人类的输入-处理-输出模型**
-- 输入
+- 输入  
 对实体的感知（视觉、听觉），对实体存在性的感知（感觉、直觉）
-- 处理
+- 处理  
 归纳论思考（实体感知，从实体归纳原理）、目的论思考（实体存在性感知，从预设推演现实）
-- 输出
+- 输出  
 主动，被动
 
-**互联网的工具性**
-- 替代搜索：搜索引擎
-互联网的信息性
-- 展示工具
--   电路仿真
+---
+**互联网的工具性与信息性**
+- 互联网的工具性
+    - 替代搜索：搜索引擎
+- 互联网的信息性
+    - 展示工具：电路仿真
 ## 目录
 
 
-# 工具
+# 互联网工具
 ## 搜索引擎
 **中国**
 - 百度
 - 搜狗
 - 360
 - 夸克
+
 **外国**
 - Google
 - Bing
@@ -43,14 +48,17 @@
 - [阿里云盘](https://www.alipan.com/drive/file/all)
 - [百度网盘](https://yun.baidu.com/disk/main#/index?category=all)
 - [蓝奏·云存储](https://up.woozooo.com/)
+
 **外国云盘**
 - [OneDrive](https://onedrive.live.com/)
 - [Google Drive](https://drive.google.com/drive/home)
 - [Dropbox.com](https://www.dropbox.com/)
+
 **手机云盘**
 - [OPPO云服务官网](https://cloud.oppo.com/)
 - [欢太云服务官网](https://cloud.heytap.com/)
 - [华为云空间](https://cloud.huawei.com/)
+
 **专用云盘**
 - [Photos - Google Photos](https://photos.google.com/)
 
@@ -100,15 +108,12 @@
 
 [w2solo - 独立开发者社区](https://w2solo.com/)
 
-[BetterExplained – Math lessons that click](https://betterexplained.com/)
+[BetterExplained – Math lessons that click](https://betterexplained.com/)  
 
 ### 个人博客
-
-[霁月难逢，彩云易散](https://botaoruhai.github.io/)
-
-[游上九霄天-CSDN博客](https://blog.csdn.net/hhkhhojh?type=blog)
-
-[波涛入海 - 博客园](https://www.cnblogs.com/botaoruhai)
+- [霁月难逢，彩云易散](https://botaoruhai.github.io/)：我的 GitHub page
+- [游上九霄天-CSDN博客](https://blog.csdn.net/hhkhhojh?type=blog)：我的CSDN
+- [波涛入海 - 博客园](https://www.cnblogs.com/botaoruhai)：我的博客园
 
 [博文\_慧田哲学\_新浪博客](https://blog.sina.com.cn/s/articlelist_1227860623_0_1.html)
 
@@ -139,7 +144,7 @@
 - [Simple Mindmap](https://simplemindmap.com/)
 - [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
 - [思维导图](https://www.mindline.cn/webapp)
-- - [Xmind](https://xmind.ai/home/my-works)
+- [Xmind](https://xmind.ai/home/my-works)
 - [Lynkage](https://www.lynkage.cn/)
 - [幕布](https://mubu.com/app)
 - [知犀](https://www.zhixi.com/space?page=owner)
@@ -149,7 +154,8 @@
 - [Telegram Web](https://web.telegram.org/)
 
 ### 社区
-**中文社区**
+**中文社区**  
+
 [Reddit](http://reddit.com/)
 
 [reddit: the front page of the internet](https://old.reddit.com/)
