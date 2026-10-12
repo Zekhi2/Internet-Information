@@ -62,6 +62,33 @@
 **专用云盘**
 - [Photos - Google Photos](https://photos.google.com/)
 
+## 论坛
+**中文论坛**
+- [虎扑社区](https://bbs.hupu.com/)
+- [X岛揭示板](https://www.nmbxd1.com/Forum)
+- [一亩三分地](https://www.1point3acres.com/bbs/)
+- [2047论坛](https://2047.one/welcome)
+- [即刻](https://web.okjike.com/following)
+- [过早客](https://www.guozaoke.com/)
+- [V2EX](https://www.v2ex.com/)
+- [LINUX DO](https://linux.do/)
+
+**外文论坛**
+- [reddit](http://www.reddit.com/)
+- [old reddit](https://old.reddit.com/)
+- [4chan](https://www.4chan.org/)
+
+## 社交媒体
+**中国社交媒体**
+
+**外国社交媒体**
+- [Facebook](https://facebook.com/)
+- [Twitter](https://twitter.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [Tumblr](https://www.tumblr.com/)
+- [Instagram](https://www.instagram.com/)
+
 ## 文档软件
 ### 笔记软件
 **Word文档**
@@ -78,7 +105,28 @@
 **Typst**
 - [Typst](https://typst.app/)
 
+### 思维导图
+- [Simple Mindmap](https://simplemindmap.com/)
+- [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
+- [思维导图](https://www.mindline.cn/webapp)
+- [Xmind](https://xmind.ai/home/my-works)
+- [Lynkage](https://www.lynkage.cn/)
+- [幕布](https://mubu.com/app)
+- [知犀](https://www.zhixi.com/space?page=owner)
+
+### pdf软件
+- [PDFgear](https://www.pdfgear.com/)
+- [Okular - 通用文档查看器](https://okular.kde.org/zh-cn/)
+- [iLovePDF](https://www.ilovepdf.com/zh-cn)：为PDF爱好者提供的PDF文件在线处理工具。
+
+[图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版](https://web.baimiaoapp.com/)
+
+[MinerU-免费全能的文档解析神器](https://mineru.net/OpenSourceTools/Extractor)
+
 ### Latex
+**latex官网与社区**
+- [LaTeX.org](https://latex.org/forum/index.php)
+
 **本地latex编辑与绘图**
 - [TikZiT](https://tikzit.github.io/index.html)
 
@@ -94,21 +142,14 @@
 
 **latex工具**
 - [quicklatex.com](https://www.quicklatex.com/)
+- [Mathpix](https://mathpix.com/)：OCR
 
 **在线latex工具**
 - [TablesGenerator](https://www.tablesgenerator.com/)
+- [MathWrite](https://www.mathwrite.com/en/latex)：图片或 PDF 转 LaTeX
 
 
 
-
-
-[MathWrite](https://www.mathwrite.com/en/latex)
-
-[LaTeX.org - Index page](https://latex.org/forum/index.php)
-
-[欧路词典](https://dict.eudic.net/)
-
-[我的生词本 | 欧路词典](https://my.eudic.net/studyList)
 
 [欢乐图书馆](https://www.thinkdoc.vip/)
 
@@ -120,7 +161,7 @@
 
 [Devhints — TL;DR for developer documentation](https://devhints.io/)
 
-[过早客](https://www.guozaoke.com/)
+
 
 [Linux.MBA「Most Badass Admin」最强管理员社区 - Linux.MBA「Most Badass Admin」最强管理员社区](https://linux.mba/)
 
@@ -146,6 +187,7 @@
 
 [BetterExplained – Math lessons that click](https://betterexplained.com/)  
 
+
 ### 个人博客
 - [霁月难逢，彩云易散](https://botaoruhai.github.io/)：我的 GitHub page
 - [游上九霄天-CSDN博客](https://blog.csdn.net/hhkhhojh?type=blog)：我的CSDN
@@ -163,7 +205,6 @@
 
 [Language Reactor](https://www.languagereactor.com/)
 
-[Readhub](https://readhub.cn/)
 
 [DistroWatch](https://distrowatch.com/)
 
@@ -173,44 +214,11 @@
 
 [Imgur](http://imgur.com/)
 
-[Urban Dictionary](https://www.urbandictionary.com/)
 
-### 思维导图
-
-- [Simple Mindmap](https://simplemindmap.com/)
-- [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
-- [思维导图](https://www.mindline.cn/webapp)
-- [Xmind](https://xmind.ai/home/my-works)
-- [Lynkage](https://www.lynkage.cn/)
-- [幕布](https://mubu.com/app)
-- [知犀](https://www.zhixi.com/space?page=owner)
 
 ## 网络工具
 ### 聊天工具
 - [Telegram Web](https://web.telegram.org/)
-
-### 社区
-**中文社区**  
-
-[Reddit](http://reddit.com/)
-
-[reddit: the front page of the internet](https://old.reddit.com/)
-
-[Instagram](https://www.instagram.com/)
-
-[Pinterest](https://www.pinterest.com/)
-
-[4chan](https://www.4chan.org/)
-
-[虎扑步行街-虎扑社区](https://bbs.hupu.com/all-gambia)
-
-[首页 - X岛揭示板](https://www.nmbxd1.com/Forum)
-
-[一亩三分地](https://www.1point3acres.com/bbs/)
-
-[欢迎来到2047 — 2047论坛](https://2047.one/welcome)
-
-[动态 - 即刻](https://web.okjike.com/following)
 
 ### 文艺与社科
 
@@ -308,31 +316,7 @@
 
 [flowus](https://flowus.cn/dfbwy/2ed855b4-85df-4597-b109-e9ae5ad70c9e)
 
-### 新闻
 
-[Reuters | Breaking International News & Views](https://www.reuters.com/)
-
-[The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video](https://www.wsj.com/)
-
-[Financial Times](https://www.ft.com/)
-
-[Bloomberg Asia](https://www.bloomberg.com/asia)
-
-[The New York Times - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
-
-[The Economist | Go beyond breaking news](https://www.economist.com/)
-
-[Latest news, sport and opinion from the Guardian](https://www.theguardian.com/international)
-
-[Breaking News, Latest News and Videos | CNN](https://edition.cnn.com/)
-
-[The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post](https://www.washingtonpost.com/)
-
-[企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)
-
-[FT中文网](https://www.ftchinese.com/)
-
-[国家数据](https://data.stats.gov.cn/index.htm)
 
 [信任的进化](https://dccxi.com/trust/)
 
@@ -346,10 +330,44 @@
 **宗教**
 - [丰盛恩典网站](https://wellsofgrace.com/index.htm)
 
+### 资讯
+**中文资讯**
+- [Readhub](https://readhub.cn/)
+
+**外文新闻**
+- [Reuters](https://www.reuters.com/)
+- [The Wall Street Journal](https://www.wsj.com/)
+- [Financial Times](https://www.ft.com/)
+- [FT中文网](https://www.ftchinese.com/)
+- [Bloomberg Asia](https://www.bloomberg.com/asia)
+- [The New York Times](https://www.nytimes.com/)
+- [NBC News](http://www.nbcnews.com/)
+- [The Economist](https://www.economist.com/)
+- [Guardian](https://www.theguardian.com/international)
+- [CNN](https://edition.cnn.com/)
+- [The Washington Post](https://www.washingtonpost.com/)
+- [TechCrunch](http://techcrunch.com/)
+
 ## 数理化
 
 ### 数学
-[大学数学网](http://www.dxsx.net/index.php)：致力于广大学生和老师对大学数学课程的学习和研究，包含高等数学线性代数概率论等学科的一些资源
+**综合性个人网站与博客**
+- [大学数学网](http://www.dxsx.net/index.php)：致力于广大学生和老师对大学数学课程的学习和研究，包含高等数学线性代数概率论等学科的一些资源
+- 黄博士网
+- [马同学](https://www.matongxue.com/columns)
+
+#### 微积分
+
+**个人网站与博客**
+- [阿尔法微积分](http://www.alphacalculus.com/)
+
+#### 数学绘图
+- [Runiter](https://www.runiter.com/)
+- [Math3d](https://www.math3d.org/)
+- [GeoGebra](https://www.geogebra.org/u/clarence233)
+- [Desmos](https://www.desmos.com/)
+- [网络画板](https://www.netpad.net.cn/index.html#/)
+- [网页版几何画板2.0](https://webgeo-8gn07v0t78c4ca57-1308819187.tcloudbaseapp.com/)
 
 ## 生物学神经科学医学心理学
 
@@ -375,6 +393,7 @@
 
 **中文CS论坛**
 - [鱼C论坛](https://fishc.com.cn/forum-255-1.html)
+- [卡饭论坛](https://bbs.kafan.cn/)
 
 **英文CS论坛**
 
@@ -415,11 +434,6 @@
 
 [数字电路-数制和码制\_数码不具有大小关系,只是一种代号,这些数码称为-CSDN博客](https://blog.csdn.net/qq_28514991/article/details/100547460)
 
-[黄博士网: 教育网, AI数学手册计算器软件，电化学虚拟实验室，虚拟电化学工作站，电化学软件](https://server.drhuang.com/chinese/science/mathematics/handbook/)
-
-[阿尔法微积分，专注微积分|高等数学，理论物理，英语词汇记忆。](http://www.alphacalculus.com/mcmenu.html)
-
-[马同学](https://www.matongxue.com/columns)
 
 [K. McDonald's Physics Examples](http://kirkmcd.princeton.edu/examples/)
 
@@ -435,7 +449,7 @@
 
 [Flathub - Apps for Linux](https://flathub.org/en)
 
-[Learn Visual Basic: VB6 and VB.NET Tutorials for Beginners](https://www.vbtutor.net/)
+
 
 [Visual Basic docs - get started, tutorials, reference. | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
@@ -693,9 +707,9 @@
 
 ### 编程助手
 
-[Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
 
-[在线代码对比/归并](https://www.matools.com/compare)
+
+- [在线代码对比/归并](https://www.matools.com/compare)
 
 [聚合图床](https://www.superbed.cn/admin#item=3)
 
@@ -839,17 +853,7 @@
 
 [Online-Offline Circuit Simulator for Analog, Digital & MCU Circuits](https://www.tina.com/)
 
-### pdf
 
-[PDFgear - Free PDF Editor Software & Online tools](https://www.pdfgear.com/)
-
-[Okular - 通用文档查看器](https://okular.kde.org/zh-cn/)
-
-[iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具](https://www.ilovepdf.com/zh-cn)
-
-[图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版](https://web.baimiaoapp.com/)
-
-[MinerU-免费全能的文档解析神器](https://mineru.net/OpenSourceTools/Extractor)
 
 
 
@@ -873,69 +877,61 @@
 
 [programming.dev - A collection of programming communities](https://programming.dev/)
 
-### 数学绘图
 
-[Runiter - Math Software for Calculations and Visualizations](https://www.runiter.com/)
-
-[Math3d: Online 3d Graphing Calculator](https://www.math3d.org/)
-
-[GeoGebra](https://www.geogebra.org/u/clarence233)
-
-[Desmos | 免费领略数学之美](https://www.desmos.com/?lang=zh-CN)
-
-[网络画板 | 开放、共享的数学实验室](https://www.netpad.net.cn/index.html#/)
-
-[网页版几何画板2.0](https://webgeo-8gn07v0t78c4ca57-1308819187.tcloudbaseapp.com/)
 
 
 
 ### 操作系统
-
-### Linux
-
+#### Linux
+**官网及论坛**
+[Linux.org](https://linux.org/)
 [ArchWiki](https://wiki.archlinux.org/title/Main_page)
-
 [Linux中国](https://linux-cn.net/)
 
-[Linux.org](https://linux.org/)
-
 ### 编程语言
+**经典题目挑战**
+- [力扣 (LeetCode)](https://leetcode.cn/)
 
-[力扣 (LeetCode)](https://leetcode.cn/)
+**编程语言及技术学习**
+- [codegym](https://codegym.cc/progress)
 
-[The Programming Language Lua](https://www.lua.org/home.html)
+#### 汇编语言
+- [Compiler Explorer](https://godbolt.org/)
+- [MASM32 SDK](https://masm32.com/)
 
-[快速参考 | AutoHotkey v2](https://wyagd001.github.io/v2/docs/index.htm)
+#### Lua
+- [The Programming Language Lua](https://www.lua.org/home.html)
+- [Lua China - Lua 中国开发者社区](https://lua-china.com/)
 
-[AutoHotkey Community - Index page](https://www.autohotkey.com/boards/)
+#### AutoHotkey
+- [AutoHotkey](https://www.autohotkey.com/)
+- [AutoHotkey Community](https://www.autohotkey.com/boards/)
+- [快速参考 | AutoHotkey v2](https://wyagd001.github.io/v2/docs/index.htm)
+- [AutoAHK – 让电脑更懂你！](https://www.autoahk.com/)
 
-[AutoAHK – 让电脑更懂你！](https://www.autoahk.com/)
 
-[Lua China - Lua 中国开发者社区](https://lua-china.com/)
 
 [AutoHotkey Wiki \[AutoHotkey Wiki\]](https://autohotkey.wiki/start)
+#### Rust
+- [Rust 程序设计语言](https://doc.rust-lang.net.cn/stable/book/title-page.html)
 
-[Rust 程序设计语言 - Rust 程序设计语言 - Rust 编程语言](https://doc.rust-lang.net.cn/stable/book/title-page.html)
+#### C/C++
+- [What is clangd?](https://clangd.llvm.org/)
+- [C++ Beginner's Guide for Python/Java/... Programmers | hacking C++](https://hackingcpp.com/cpp/beginners_guide.html)
+- [Learn Contemporary C++ | Concise&Visual Examples | hacking C++](https://hackingcpp.com/)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [C++学习网](https://www.studycpp.cn/)
+- [cppreference.com](https://en.cppreference.com/)
+- [Cross-Platform C SDK - NAppGUI](https://nappgui.com/en/home/web/home.html)
+- [EasyX Graphics Library for C++](https://easyx.cn/)
+- [The GTK Project - A free and open-source cross-platform widget toolkit](https://www.gtk.org/)
+- [Cprogramming.com](https://www.cprogramming.com/)
 
-### C/C++
+#### C#
+- [C# Tutorial](https://www.csharptutorial.net/)
 
-[What is clangd?](https://clangd.llvm.org/)
-
-[C++ Beginner's Guide for Python/Java/... Programmers | hacking C++](https://hackingcpp.com/cpp/beginners_guide.html)
-
-[Learn Contemporary C++ | Concise&Visual Examples | hacking C++](https://hackingcpp.com/)
-
-[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-
-[C++学习网 – 世界上最好的中文C++学习网站](https://www.studycpp.cn/)
-
-[cppreference.com](https://en.cppreference.com/)
-
-[Cross-Platform C SDK - NAppGUI](https://nappgui.com/en/home/web/home.html)
-
-[EasyX Graphics Library for C++](https://easyx.cn/)
-
-[The GTK Project - A free and open-source cross-platform widget toolkit](https://www.gtk.org/)
+#### VB
+- [Learn Visual Basic](https://www.vbtutor.net/)：VB6 and VB.NET Tutorials for Beginners.
 
 ### CS工具
 **Git**
@@ -956,45 +952,37 @@
     - [VIM 中文帮助: 总览及快速参考](https://yianwillis.github.io/vimcdoc/doc/help.html)
 
 ### AI
+**外国 AI**
+- [Claude](https://claude.com/)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 
-[Claude Code](https://www.anthropic.com/claude-code)
+**中国 AI**
+- [Kimi](https://www.kimi.com/)
+- [豆包](https://www.doubao.com/chat/)
 
-[Perplexity](https://www.perplexity.ai/?login-source=floatingSignup&login-new=false)
+**AI 服务**
+- [Perplexity](https://www.perplexity.ai/)
 
-[Kimi - 会推理解析，能深度思考的AI助手](https://www.kimi.com/)
+**AI 相关工具**
+- AI Detector
 
-[豆包 - 字节跳动旗下 AI 智能助手](https://www.doubao.com/chat/)
+**AI 中转站**
+- [Dooong AI](https://ai.dooo.ng/dashboard)
+- [apibox](https://api.apibox.cc/console)
+- [foxcode](https://foxcode.rjj.cc/dashboard)
+- [New API](https://api.mmkg.cloud/)
 
-[Chat | Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-
-[AI Detector & Content Checker | No Login Required - Copyleaks](https://copyleaks.com/ai-content-detector)
-
-### AI 中转站
-
-[Dooong AI - AI API Gateway](https://ai.dooo.ng/dashboard)
-
-[apibox](https://api.apibox.cc/console)
-
-[foxcode](https://foxcode.rjj.cc/dashboard)
-
-### AI 编辑器
-
-[Visual Studio Code 文档 - VSCode · AI 代码编辑器](https://vscode.js.cn/docs)
-
-[Google Antigravity](https://antigravity.google/docs/get-started)
-
-[Get started - IDE - Docs - Kiro](https://kiro.dev/docs/)
-
-[Claude Code 概述 - Claude Code Docs](https://code.claude.com/docs/zh-CN/overview)
+**AI 编辑器**
+- [Overview - Claude Code Docs](https://code.claude.com/docs/en/overview)
+- [Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
+- [Home | Google Antigravity Docs](https://antigravity.google/docs/home/)
+- [Docs - Kiro](https://kiro.dev/docs/)
+- [Cursor Docs](https://cursor.com/docs)：Agent, Rules, MCP, Skills & CLI.
 
 ## 资源
 ### 云盘资源
+- [网盘资源避难所](https://suenen.com/)
 
-[网盘资源避难所-天翼云盘资源站](https://suenen.com/)
-
-### 壁纸头像
-- [「哲风壁纸」](https://haowallpaper.com/homeView)
-- [Wallpics](https://wallpics.app/)
 
 ### 影视
 **在线影视**
@@ -1052,27 +1040,6 @@
 
 [Digg](http://digg.com/)
 
-
-### 社交媒体
-**中国社交媒体**
-
-**外国社交媒体**
-- [Facebook](https://facebook.com/)
-- [Twitter](https://twitter.com/)
-- [LinkedIn](https://www.linkedin.com/)
-- [Pinterest](https://www.pinterest.com/)
-- [Tumblr](https://www.tumblr.com/)
-
-### Most Useful
-
-[reddit](http://www.reddit.com/)
-
-[New York Times](http://www.nytimes.com/)
-
-[NBC News](http://www.nbcnews.com/)
-
-[TechCrunch](http://techcrunch.com/)
-
 [The Internet Movie Database](https://www.imdb.com/)
 
 [Yelp](https://www.yelp.com/)
@@ -1117,24 +1084,15 @@
 
 [TMZ Celebrity Gossip](http://www.tmz.com/)
 
-### Fun
-
-[Twitch.tv](http://www.twitch.tv/)
-
-[IGN](http://www.ign.com/)
-
-[Imgur](http://imgur.com/)
-
-[9gag.com](https://9gag.com/)
-
-[CollegeHumor - Funny Vids](http://www.collegehumor.com/)
+- [Twitch.tv](http://www.twitch.tv/)
+- [IGN](http://www.ign.com/)
+- [Imgur](http://imgur.com/)
+- [9gag.com](https://9gag.com/)
+- [CollegeHumor - Funny Vids](http://www.collegehumor.com/)
 
 ### Drag me to other columns
 
 [Drag me to other categories](https://papaly.com/)
-
-
-### Favorites Bar
 
 ### tools
 
@@ -1148,11 +1106,9 @@
 
 [botrh - 控制面板 - Codeberg.org](https://codeberg.org/)
 
-[C# Tutorial](https://www.csharptutorial.net/)
-
 [从零开始手搓数据库(Go)](https://systems-programming.org/database_zh/)
 
-[Compiler Explorer](https://godbolt.org/)
+
 
 [gpsim](https://gpsim.sourceforge.net/gpsim.html#shots)
 
@@ -1160,17 +1116,17 @@
 
 [Crackmes.one](https://crackmes.one/)
 
-[MASM32 SDK](https://masm32.com/)
+
 
 [下载Multisim - NI](https://www.ni.com/zh-cn/support/downloads/software-products/download.multisim.html#452133)
 
-[Cursor：与 AI 一起编程的最佳方式](https://cursor.com/cn)
+
 
 [Anaconda.org](https://anaconda.org/)
 
 [2D animation software, Flash animation | Adobe Animate](https://www.adobe.com/products/animate.html)
 
-[New API](https://api.mmkg.cloud/)
+
 
 [Home | nand2tetris](https://www.nand2tetris.org/)
 
@@ -1188,7 +1144,7 @@
 
 [PyPI · The Python Package Index](https://pypi.org/)
 
-[Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/)
+
 
 [npm | Home](https://www.npmjs.com/)
 
@@ -1250,7 +1206,6 @@
 
 [WinPcap - Home](https://www.winpcap.org/)
 
-[Mathpix: Document conversion done right](https://mathpix.com/)
 
 [超星客户端专区-超星阅读器windows版](https://ssreader.chaoxing.com/)
 
@@ -1289,7 +1244,6 @@
 [爱上米思齐（Mixly）](https://mixly.cn/)
 
 [IAR Embedded Workbench | IAR](https://www.iar.com/embedded-development-tools/iar-embedded-workbench)
-
 [Keil Embedded Development Tools for Arm, Cortex-M, Cortex-R4, 8051, C166, and 251 processor families.](https://www.keil.com/)
 
 [软件开发工具 | Software - 意法半导体STMicroelectronics](https://www.st.com.cn/zh/development-tools/software-development-tools.html)
@@ -1308,9 +1262,6 @@
 
 [MarkdownPad - The Markdown Editor for Windows](http://markdownpad.com/)
 
-[New API](https://www.openclaudecode.cn/)
-
-[Kiro: Agentic AI development from prototype to production](https://kiro.dev/)
 
 [DHcoder - AI编程助手](https://www.dhcoder.net/)
 
@@ -1777,11 +1728,10 @@
 
 [Scamalytics](https://scamalytics.com/)
 
-[卡饭论坛\_最好的软件论坛\_讨论 - 互助分享 - 大气谦和!](https://bbs.kafan.cn/)
 
 [LazyTyper官网 - 免费精准的Whisper语音输入，支持中英日韩等多语言混输](https://lazytyper.com/zh)
 
-[NodeSeek](https://www.nodeseek.com/)
+
 
 [来自 ¥13.95 的 VPS 服务器 | JustHosting](https://just.hosting/zh)
 
@@ -1792,7 +1742,6 @@
 
 [WaveDrom - Digital timing diagram everywhere](https://wavedrom.com/)
 
-[Learning](https://codegym.cc/progress)
 
 [2026最新机场导航 - 高速稳定翻墙VPN收集与优惠码](https://www.114514417.xyz/)
 
@@ -1837,7 +1786,16 @@
 **投资数据**
 - [见微数据](https://www.jianweidata.com/)
 
+
+
+[企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)
+
+
+
+[国家数据](https://data.stats.gov.cn/index.htm)
+
 ## 文学
+### 字与词
 **字典与词典**
 - [Mdict](https://mdict.org/)
 - [FreeMdict Forum](https://forum.freemdict.com/)
@@ -1846,6 +1804,8 @@
 - [漢語多功能字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 - [zi.tools](https://zi.tools/)
 - [Wiktionary](https://en.wiktionary.org/wiki/)
+- [欧路词典](https://dict.eudic.net/)
+- [Urban Dictionary](https://www.urbandictionary.com/)
 
 **字体**
 - [Font Squirrel](https://www.fontsquirrel.com/)
@@ -1855,3 +1815,10 @@
 **在线中文书籍**
 - [中國哲學書電子化計劃](https://ctext.org/zhs)
 - [5000言：国学经典-传统文化](https://5000yan.com/)
+
+### 壁纸头像
+- [哲风壁纸](https://haowallpaper.com/homeView)
+- [Wallpics](https://wallpics.app/)
+
+**艺术**
+- [Color Hunt](https://colorhunt.co/)：颜色及其 RGB。
