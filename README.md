@@ -32,10 +32,10 @@
 - 夸克
 
 **外国**
-- Google
+- [Google](https://google.com/)
 - Bing
 - duckduckgo
-- searx
+- [SearXNG](https://search.mectov.my.id/)
 - startpage
 - Ecosia
 - [Yahoo](https://www.yahoo.com/)
@@ -65,8 +65,46 @@
 ## 文档软件
 ### 笔记软件
 **Word文档**
-- [我的桌面 - 石墨文档](https://shimo.im/desktop)
-- [金山文档 | WPS云文档](https://www.kdocs.cn/latest?from=docs)
+- [石墨文档](https://shimo.im/desktop)
+- [WPS云文档](https://www.kdocs.cn/latest?from=docs)
+
+**Markdown笔记软件**
+
+
+**Markdown在线**
+- [Markdown Online](https://www.markdownonline.net/)
+- [Upmath](https://upmath.me/)
+
+**Typst**
+- [Typst](https://typst.app/)
+
+### Latex
+**本地latex编辑与绘图**
+- [TikZiT](https://tikzit.github.io/index.html)
+
+**在线latex编辑**
+- Overleaf
+- [TeXPage](https://www.texpage.com/console)
+- [LaTex Editor](https://latex-editor.pages.dev/)
+- [Papeeria](https://papeeria.com/)
+
+**在线latex绘图**
+- [Mathcha](https://www.mathcha.io/)
+- [TikzMaker](https://tikzmaker.com/)
+
+**latex工具**
+- [quicklatex.com](https://www.quicklatex.com/)
+
+**在线latex工具**
+- [TablesGenerator](https://www.tablesgenerator.com/)
+
+
+
+
+
+[MathWrite](https://www.mathwrite.com/en/latex)
+
+[LaTeX.org - Index page](https://latex.org/forum/index.php)
 
 [欧路词典](https://dict.eudic.net/)
 
@@ -93,8 +131,6 @@
 [Genspark 超级智能体：终极全能 AI 伴侣](https://www.genspark.ai/)
 
 [项目 | Slager](https://www.slager.link/#/Project)
-
-[主页 - TeXPage](https://www.texpage.com/console)
 
 [Game Design Resources - curated by Alexander Kullman - Google Drive](https://docs.google.com/spreadsheets/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLbu1o/htmlview#)
 
@@ -305,41 +341,61 @@
 [讯飞听见](https://www.iflyrec.com/zhuanwenzi.html)
 
 # 互联网信息
+## 哲学历史学
+
+**宗教**
+- [丰盛恩典网站](https://wellsofgrace.com/index.htm)
+
+## 数理化
+
+### 数学
+[大学数学网](http://www.dxsx.net/index.php)：致力于广大学生和老师对大学数学课程的学习和研究，包含高等数学线性代数概率论等学科的一些资源
+
+## 生物学神经科学医学心理学
+
+## 地理及工学
 ## 电学
+### 官网与论坛
+**中文EE论坛**
+- [EETOP 创芯网论坛](https://bbs.eetop.cn/)
+- [21ic电子技术开发论坛](https://bbs.21ic.com/)
+- [芯路恒电子技术论坛](https://fpga.cn/)：小梅哥FPGA28374
+- [普中开源电子分享](http://prechin.net/forum.php?mod=forumdisplay&fid=61)
+- [野火电子论坛](https://www.firebbs.cn)
+- [电路城论坛首页](https://www.cirmall.com/bbs/?_ga=2.243680781.924214114.1674310797-1739260182.1674310797)
+- [硬禾学堂](https://class.eetree.cn/p/t_pc/course_pc_detail/column/p_5e548b6ebab35_4rNpZDim?product_id=p_5e548b6ebab35_4rNpZDim)
+- [电子森林](https://www.eetree.cn/project/detail/11)
+- [大学生电子设计竞赛 \[电子森林\]](https://www.eetree.cn/wiki/%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B)
+- [Chinaunix](http://bbs.chinaunix.net/)
+- [DF创客社区](https://mc.dfrobot.com.cn/forum.html)
+- [『漫游』酷论坛](https://bbs.popgo.org/bbs/index.php)
+- [硬汉嵌入式论坛 - Powered by Discuz!](https://forum.anfulai.cn/)
 
-### 论坛
+**英文EE论坛**
 
-[EETOP 创芯网论坛](https://bbs.eetop.cn/)
+**中文CS论坛**
+- [鱼C论坛](https://fishc.com.cn/forum-255-1.html)
 
-[鱼C论坛](https://fishc.com.cn/forum-255-1.html)
+**英文CS论坛**
 
-[21ic电子技术开发论坛](https://bbs.21ic.com/iclist-119-1.html)
+### 文档与手册
+**CS文档**
+- [书栈网](https://www.bookstack.cn/)
+- [iBooker](https://www.apachecn.org/)
 
-[芯路恒电子技术论坛](http://www.corecourse.cn/forum.php?mod=viewthread&tid=28374)
-
-[普中开源电子分享网](http://prechin.net/forum.php?mod=forumdisplay&fid=61)
-
-[野火电子论坛](https://www.firebbs.cn/forum.php?mod=forumdisplay&fid=158)
-
-[电路城论坛首页](https://www.cirmall.com/bbs/?_ga=2.243680781.924214114.1674310797-1739260182.1674310797)
-
-[硬禾学堂](https://class.eetree.cn/p/t_pc/course_pc_detail/column/p_5e548b6ebab35_4rNpZDim?product_id=p_5e548b6ebab35_4rNpZDim)
-
-[电子森林](https://www.eetree.cn/project/detail/11)
-
-[大学生电子设计竞赛 \[电子森林\]](https://www.eetree.cn/wiki/%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B)
-
-[Chinaunix](http://bbs.chinaunix.net/)
-
-[DF创客社区](https://mc.dfrobot.com.cn/forum.html)
-
-[『漫游』酷论坛](https://bbs.popgo.org/bbs/index.php)
-
-### Bookmarks
+**cheatsheet**
+- [CheatSheets.zip](https://cheatsheets.zip/)
+- [QuickRef.ME](https://quickref.me/)
+- [DevDocs API](https://devdocs.io/)
+- [Zeal](https://zealdocs.org/)
+- [Cheatography.com](https://cheatography.com/)
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet?tab=readme-ov-file)
+- [i Hate Regex](https://ihateregex.io/)
+- [Cheat-sheet editor](https://cheatsheets-editor.com/)
 
 [Welcome • freemediaheckyeah](https://fmhy.net/)
 
-[5000言：国学经典-传统文化](https://5000yan.com/)
+
 
 [w3school 在线教程](https://www.w3school.com.cn/)
 
@@ -447,8 +503,6 @@
 
 [机核 GCORES](https://www.gcores.com/)
 
-[天涯论坛\_华人最大的社区论坛\_新天涯论坛](https://xintianya.net/)
-
 [巴哈姆特電玩資訊站](https://www.gamer.com.tw/)
 
 [蜜柑计划 - Mikan Project](https://mikanani.me/)
@@ -461,7 +515,7 @@
 
 [Pedagoguery Software: GrafEq](http://www.peda.com/grafeq/)
 
-[Typst](https://typst.app/)
+
 
 [The Raindrop-Blue Book (Typst中文教程)](https://typst-doc-cn.github.io/tutorial/)
 
@@ -637,12 +691,6 @@
 
 [Cinderella : Cinderella](https://www.cinderella.de/tiki-index.php)
 
-### 文档
-
-[书栈网](https://www.bookstack.cn/)
-
-[iBooker](https://www.apachecn.org/#/)
-
 ### 编程助手
 
 [Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
@@ -653,7 +701,7 @@
 
 ### tools
 
-[zi.tools 字統网](https://zi.tools/)
+
 
 [影像FTP | 医学影像学资源下载中心](https://www.yxftp.com/)
 
@@ -803,9 +851,7 @@
 
 [MinerU-免费全能的文档解析神器](https://mineru.net/OpenSourceTools/Extractor)
 
-### 数学
 
-[大学数学网-我们致力于广大学生和老师对大学数学课程的学习和研究](http://www.dxsx.net/index.php)
 
 ### 软件开发
 
@@ -817,27 +863,7 @@
 
 [Unity](https://unity.com/cn)
 
-### Latex
 
-[Upmath](https://upmath.me/)
-
-[Online Latex Editor | LaTex Editor](https://latex-editor.pages.dev/)
-
-[TikzMaker](https://tikzmaker.com/)
-
-[quicklatex.com](https://www.quicklatex.com/)
-
-[TikZiT](https://tikzit.github.io/index.html)
-
-[TablesGenerator](https://www.tablesgenerator.com/)
-
-[Papeeria：在线 LaTeX 编辑器](https://papeeria.com/)
-
-[Mathcha - Online Math Editor](https://www.mathcha.io/)
-
-[MathWrite](https://www.mathwrite.com/en/latex)
-
-[LaTeX.org - Index page](https://latex.org/forum/index.php)
 
 ### 网络社区
 
@@ -861,23 +887,7 @@
 
 [网页版几何画板2.0](https://webgeo-8gn07v0t78c4ca57-1308819187.tcloudbaseapp.com/)
 
-### cheatsheet
 
-[CheatSheets.zip - Ultimate Cheat for Developers](https://cheatsheets.zip/)
-
-[QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
-
-[DevDocs API Documentation](https://devdocs.io/)
-
-[Zeal - Offline Documentation Browser](https://zealdocs.org/)
-
-[Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/)
-
-[python-cheatsheet](https://github.com/gto76/python-cheatsheet?tab=readme-ov-file)
-
-[i Hate Regex - The Regex Cheat Sheet](https://ihateregex.io/)
-
-[Cheat-sheet editor](https://cheatsheets-editor.com/)
 
 ### 操作系统
 
@@ -928,32 +938,22 @@
 [The GTK Project - A free and open-source cross-platform widget toolkit](https://www.gtk.org/)
 
 ### CS工具
+**Git**
+- [Git](https://git-scm.com/book/zh/v2)
+- [简介 - Git教程 - 廖雪峰的官方网站](https://liaoxuefeng.com/books/git/introduction/index.html)
+- [java-eight-part/docs/tools/git/保姆级Git教程，10000字详解.md](https://github.com/CoderLeixiaoshuai/java-eight-part/blob/master/docs/tools/git/%E4%BF%9D%E5%A7%86%E7%BA%A7Git%E6%95%99%E7%A8%8B%EF%BC%8C10000%E5%AD%97%E8%AF%A6%E8%A7%A3.md)
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
+- [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/index.zh.html)
 
-### Git
-
-[Git](https://git-scm.com/book/zh/v2)
-
-[简介 - Git教程 - 廖雪峰的官方网站](https://liaoxuefeng.com/books/git/introduction/index.html)
-
-[java-eight-part/docs/tools/git/保姆级Git教程，10000字详解.md at master · CoderLeixiaoshuai/java-eight-part · GitHub](https://github.com/CoderLeixiaoshuai/java-eight-part/blob/master/docs/tools/git/%E4%BF%9D%E5%A7%86%E7%BA%A7Git%E6%95%99%E7%A8%8B%EF%BC%8C10000%E5%AD%97%E8%AF%A6%E8%A7%A3.md)
-
-[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
-
-[git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/index.zh.html)
-
-### 编辑器
-
-[EditPlus - Text editor with FTP, FTPS and sftp capabilities](https://www.editplus.com/)
-
-[Notepad3 – Rizonesoft.com](https://rizonesoft.com/downloads/notepad3/)
-
-[Vim: help.txt](https://vimhelp.org/)
-
-[VIM常用快捷键和插件整理 | CatBro's Blog](https://catbro666.github.io/posts/d6ca5270/)
-
-[VIM Adventures](https://vim-adventures.com/)
-
-[VIM 中文帮助: 总览及快速参考](https://yianwillis.github.io/vimcdoc/doc/help.html)
+### 代码编辑器
+- [EditPlus - Text editor with FTP, FTPS and sftp capabilities](https://www.editplus.com/)
+- [Notepad3 – Rizonesoft.com](https://rizonesoft.com/downloads/notepad3/)
+- [Zed](https://zed.dev/)
+- Vim
+    - [Vim: help.txt](https://vimhelp.org/)
+    - [VIM常用快捷键和插件整理 | CatBro's Blog](https://catbro666.github.io/posts/d6ca5270/)
+    - [VIM Adventures](https://vim-adventures.com/)
+    - [VIM 中文帮助: 总览及快速参考](https://yianwillis.github.io/vimcdoc/doc/help.html)
 
 ### AI
 
@@ -988,15 +988,13 @@
 [Claude Code 概述 - Claude Code Docs](https://code.claude.com/docs/zh-CN/overview)
 
 ## 资源
-
-### 通用资源
+### 云盘资源
 
 [网盘资源避难所-天翼云盘资源站](https://suenen.com/)
 
 ### 壁纸头像
-
-[「哲风壁纸」](https://haowallpaper.com/homeView)
-[Wallpics](https://wallpics.app/)
+- [「哲风壁纸」](https://haowallpaper.com/homeView)
+- [Wallpics](https://wallpics.app/)
 
 ### 影视
 **在线影视**
@@ -1013,6 +1011,7 @@
 - [423down](https://www.423down.com/)
 - [filecr](https://filecr.com/en-us/)
 - [4分贝](https://4fb.cn/)
+- [Uptodown](https://en.uptodown.com/windows)
 
 **游戏**
 - [Switch520](https://www.gamer520.com/)
@@ -1030,9 +1029,6 @@
 
 ### Frequently Used
 
-[Google](https://google.com/)
-
-[Yahoo!](https://www.yahoo.com/)
 
 [YouTube](https://youtube.com/)
 
@@ -1056,21 +1052,16 @@
 
 [Digg](http://digg.com/)
 
-[Yahoo! Answers](http://answers.yahoo.com/)
 
-### Social Media
+### 社交媒体
+**中国社交媒体**
 
-[Facebook](https://facebook.com/)
-
-[Twitter](https://twitter.com/)
-
-[LinkedIn](https://www.linkedin.com/)
-
-[Pinterest](https://www.pinterest.com/)
-
-[Google Plus](https://plus.google.com/)
-
-[Tumblr](https://www.tumblr.com/)
+**外国社交媒体**
+- [Facebook](https://facebook.com/)
+- [Twitter](https://twitter.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [Tumblr](https://www.tumblr.com/)
 
 ### Most Useful
 
@@ -1143,6 +1134,724 @@
 [Drag me to other categories](https://papaly.com/)
 
 
+### Favorites Bar
+
+### tools
+
+[www.artstation.com](https://www.artstation.com/)
+
+[TreeSize – Official Free Download](https://www.jam-software.com/treesize)
+
+[Kdenlive - 自由与开源的视频编辑器](https://kdenlive.org/zh-cn/)
+
+[AlternativeTo - Crowdsourced software recommendations | AlternativeTo](https://alternativeto.net/)
+
+[botrh - 控制面板 - Codeberg.org](https://codeberg.org/)
+
+[C# Tutorial](https://www.csharptutorial.net/)
+
+[从零开始手搓数据库(Go)](https://systems-programming.org/database_zh/)
+
+[Compiler Explorer](https://godbolt.org/)
+
+[gpsim](https://gpsim.sourceforge.net/gpsim.html#shots)
+
+[NandGame - Build a computer from scratch.](https://nandgame.com/)
+
+[Crackmes.one](https://crackmes.one/)
+
+[MASM32 SDK](https://masm32.com/)
+
+[下载Multisim - NI](https://www.ni.com/zh-cn/support/downloads/software-products/download.multisim.html#452133)
+
+[Cursor：与 AI 一起编程的最佳方式](https://cursor.com/cn)
+
+[Anaconda.org](https://anaconda.org/)
+
+[2D animation software, Flash animation | Adobe Animate](https://www.adobe.com/products/animate.html)
+
+[New API](https://api.mmkg.cloud/)
+
+[Home | nand2tetris](https://www.nand2tetris.org/)
+
+[正版软件商城丨APSGO软购商城](https://apsgo.com/)
+
+[botrh | Netlify](https://app.netlify.com/teams/botrh/projects)
+
+[Firebase console](https://console.firebase.google.com/)
+
+[Cloud Computing Services | Google Cloud](https://cloud.google.com/)
+
+[Algodoo](https://www.algodoo.com/)
 
 
 
+[PyPI · The Python Package Index](https://pypi.org/)
+
+[Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/)
+
+[npm | Home](https://www.npmjs.com/)
+
+[Google Antigravity](https://antigravity.google/)
+
+[LaTeX.Online - cloud compiler LaTeX to PDF](https://latexonline.cc/)
+
+
+
+[Hackster.io - The community dedicated to learning hardware.](https://www.hackster.io/)
+
+[Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
+
+[FreeCourseSite - Download Udemy Paid Courses For Free](https://fcsnew.net/)
+
+[英文名大全 免费取英文名 好听的英文名字 英文名](https://en.oicq88.com/)
+
+[Documentaries - watch free online documentaries - ihavenotv.com](https://ihavenotv.com/)
+
+[Immersive Math](https://immersivemath.com/ila/#)
+
+[PlantUML Editor Online - Free & Fast UML Diagram Tool | PlantText](https://www.planttext.com/)
+
+[OpenRead - AI Research Platform | Research Intelligence for Everyone](https://www.openread.academy/zh)
+
+[Home | Arduino Cloud](https://app.arduino.cc/)
+
+[Icarus Verilog — Icarus Verilog documentation](https://steveicarus.github.io/iverilog/)
+
+[Verilog.com](https://www.verilog.com/)
+
+[Sysinternals - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/)
+
+[数字历史](http://www.shuzilishi.com/)
+
+[时光图书馆--经典珍藏系列，十年相伴！](https://atimebook.com/)
+
+[OpenCut](https://opencut.app/projects)
+
+[我的草稿 | 全能视频编辑器 | CapCut](https://www.jianying.com/my-edit?start_tab=video)
+
+[浩辰CAD软件官网-CAD软件下载\_国产正版CAD制图软件,全球用户超1亿](https://www.gstarcad.com/)
+
+[天正软件 - 面向设计，表现自我-天正公司](http://tangent.com.cn/)
+
+[三菱FX系列PLC教程-我要自学网](https://www.51zxw.net/List.aspx?cid=466#!fenye=1)
+
+[Electrical ACE](https://www.eleace.cn/#/)
+
+[Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/)
+
+[Freetime software](http://freetime.tech/)
+
+[唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载](https://www.jijidown.com/)
+
+[Snipaste](https://www.snipaste.com/)
+
+[NetSarang Website – Windows to Linux Network Connectivity Solutions](https://www.xshell.com/zh/)
+
+[WinPcap - Home](https://www.winpcap.org/)
+
+[Mathpix: Document conversion done right](https://mathpix.com/)
+
+[超星客户端专区-超星阅读器windows版](https://ssreader.chaoxing.com/)
+
+[EmEditor (Text Editor) – Best Text Editor, Code Editor, CSV Editor, Large File Viewer for Windows (Free versions available)](https://www.emeditor.com/)
+
+[IBM SPSS Statistics](https://www.ibm.com/products/spss-statistics)
+
+[MuMu模拟器官网\_安卓12模拟器\_网易手游模拟器](https://mumu.163.com/)
+
+[TI-84 Plus 系列模拟软件 - 德州仪器 - 中国](https://education.ti.com/zh-cn/products/computer-software/ti-smartview-for-84)
+
+[jabref.org](https://www.jabref.org/)
+
+[知云文献翻译PC版官网](https://www.zhiyunwenxian.cn/)
+
+[致美化 - 视觉美化研究平台](https://zhutix.com/)
+
+[SAI绘画软件-SAI漫画CG绘画工具](https://www.sai2.com.cn/)
+
+[Tutorials & Projects | DroneBot Workshop | Arduino & Raspberry Pi](https://dronebotworkshop.com/)
+
+[欢迎来到 Fritzing --- Welcome to Fritzing](https://fritzing.org/)
+
+[Your Gateway to Embedded Software Development Excellence · PlatformIO](https://platformio.org/)
+
+[XYplorer - File Manager for Windows](https://www.xyplorer.com/)
+
+[Home · MPC-HC](https://mpc-hc.org/)
+
+[下载 K-Lite 编解码器包 --- Download K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
+
+[欢迎访问 PinPong Python库教程文档! — pinpong 0.1 文档](https://pinpong.readthedocs.io/zh-cn/latest/index.html)
+
+[Mind+官网 - 一站式满足程序设计、模型训练、界面设计。](https://mindplus.cc/)
+
+[爱上米思齐（Mixly）](https://mixly.cn/)
+
+[IAR Embedded Workbench | IAR](https://www.iar.com/embedded-development-tools/iar-embedded-workbench)
+
+[Keil Embedded Development Tools for Arm, Cortex-M, Cortex-R4, 8051, C166, and 251 processor families.](https://www.keil.com/)
+
+[软件开发工具 | Software - 意法半导体STMicroelectronics](https://www.st.com.cn/zh/development-tools/software-development-tools.html)
+
+[嵌入式技术专业人才认证平台](https://eetalent.cn/)
+
+[EmbedFire东莞野火电子技术有限公司 – 野火电子](https://embedfire.com/)
+
+[ST中文论坛](https://shequ.stmicroelectronics.cn/index.php)
+
+[广州市星翼电子\_正点原子\_核心板工控板](https://www.alientek.com/)
+
+[Freetime software](http://www.pcfreetime.com/)
+
+[Markdown Guide](https://www.markdownguide.org/)
+
+[MarkdownPad - The Markdown Editor for Windows](http://markdownpad.com/)
+
+[New API](https://www.openclaudecode.cn/)
+
+[Kiro: Agentic AI development from prototype to production](https://kiro.dev/)
+
+[DHcoder - AI编程助手](https://www.dhcoder.net/)
+
+[Codex | OpenAI](https://openai.com/zh-Hans-CN/codex/)
+
+[CyberChef](https://gchq.github.io/CyberChef/)
+
+[ChatGPT Business Team 自助开通](https://codexcn.com/)
+
+[首页\_炎火云](https://mingkj.com/)
+
+[藏经阁](https://cangjggame.com/)
+
+[单机游戏\_单机游戏下载\_单机游戏大全中文版下载\_3DM游戏网](https://www.3dmgame.com/)
+
+[Excalidraw](https://math.preview.excalidraw.com/)
+
+[FastStone Capture中文网\_专业截图、录屏软件,可滚动截图和屏幕录像](https://www.faststonecapture.cn/)
+
+[Greenshot](https://getgreenshot.org/)
+
+[ShareX - The best free and open source screenshot tool for Windows](https://getsharex.com/)
+
+[PixPin - All-in-One Screenshot, Recording & OCR Tool | Capture, Pin, Annotate](https://pixpin.com/)
+
+[Purasbar - 自由的网络社区](https://zh.purasbar.com/)
+
+[BuildCores: 3D PC Builder and Part Picker](https://buildcores.com/)
+
+[YUME 梦乡](http://yume.ly/)
+
+[Emacs China](https://emacs-china.org/)
+
+[High Performance Browser Networking (O'Reilly)](https://hpbn.co/#toc)
+
+[Logisim](https://cburch.com/logisim/)
+
+[数字电路教程](https://vlab.ustc.edu.cn/guide/index.html)
+
+[PCB Design and Circuit Simulator Software - Proteus](https://www.labcenter.com/)
+
+[DOSBox, an x86 emulator with DOS](https://www.dosbox.com/)
+
+[游芯沙盒论坛\_terraria\_泰拉瑞亚中文战网](https://www.zgxsh.com/)
+
+[量子资源网](http://lzizy8.com/)
+
+[Learn - OceanLabz](https://www.oceanlabz.in/category/learn/)
+
+[FreeRTOS™ - FreeRTOS™](https://www.freertos.org/)
+
+[Confluence](https://micrium.atlassian.net/wiki/spaces)
+
+[DPlayer](https://dplayer.diygod.dev/)
+
+[文革与当代史研究网 - Powered by Discuz!](https://difangwenge.org/)
+
+[Listen Notes: The best podcast search engine](https://www.listennotes.com/)
+
+[主页 - 飞书妙记](https://jxnl6c8z68w.feishu.cn/minutes/home)
+
+[首页 - 通义听悟](https://tingwu.aliyun.com/home)
+
+[讯飞听见-AI智能会议纪要，电脑录音工具-语音记录生成工作总结](https://huiji.iflyrec.com/list)
+
+[钉钉AI 听记](https://shanji.dingtalk.com/app/transcribes-list)
+
+[STMCU中文官网](https://www.stmcu.com.cn/Designresource/list/STM32%20MCU/document/document)
+
+[End of the Internet](https://hmpg.net/)
+
+[AFFiNE](https://app.affine.pro/)
+
+[Heptabase](https://heptabase.com/)
+
+[Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
+
+[plc4me.com – Free – Fast – Easy For Automation ^^](https://plc4me.com/)
+
+[pollykann](https://video.pollykann.com/movie)
+
+[Photopea | Online Photo Editor](https://www.photopea.com/)
+
+[Bear - Markdown Notes](https://bear.app/)
+
+[AFFiNE - All In One KnowledgeOS](https://affine.pro/zhHans)
+
+[Free ChatGPT Site List- 这儿为你准备了众多免费好用的ChatGPT镜像站点](https://ai55.cc/)
+
+[PackyAPI](https://www.packyapi.com/)
+
+[OpenRouter](https://openrouter.ai/)
+
+[心理知识 - 心理成长](https://types.yuzeli.com/search)
+
+[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)
+
+[打字侠 - 免费在线打字练习｜键盘指法训练｜英语打字学习｜中小学生打字软件](https://www.hellotyping.com/)
+
+[Qwerty Learner 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.kaiyi.cool/)
+
+[Learn language in context - Clozemaster](https://www.clozemaster.com/l/eng-cmn)
+
+[Linguno - Language learning tools](https://www.linguno.com/)
+
+[神经科学原理](https://openhutb.github.io/neuro/#content)
+
+[历史地图 - 交互式历史地理信息可视化平台](https://wowhistorymap.com/)
+
+[english-corpora.org](https://www.english-corpora.org/)
+
+[PlayPhrase.me: Site for cinema archaeologists.](https://www.playphrase.me/)
+
+[波特律动](https://docs.keysking.com/)
+
+[首页](https://cathon.github.io/chinaetfs_public_saying/#/?id=etf-%e6%8b%af%e6%95%91%e4%b8%96%e7%95%8c-%e6%96%87%e9%9b%86)
+
+[高精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台](https://ping0.cc/)
+
+[AI 模型价格对比 - GetCheapAI](https://www.getcheapai.com/zh-cn)
+
+[iCloud 日⁠历](https://www.icloud.com.cn/calendar/)
+
+[You.com | Accurate Answers & Agents](https://you.com/platform)
+
+[Perplexity](https://www.perplexity.ai/)
+
+[LD OPEN HUB — 公益站导航](https://ldoh.105117.xyz/auth/login?returnTo=%2F)
+
+[CherryIN](https://open.cherryin.ai/console)
+
+[HongMaCC - 企业级 AI 中转平台 | Claude Code、Codex、Gemini 国内直连](https://hongmacc.com/)
+
+[CUBENCE - Claude Code & Codex Gateway](https://cubence.com/)
+
+[KKSJ AI模型中转API](https://api.kksj.org/pricing)
+
+[Ai Go Code](https://www.aigocode.com/dashboard/console)
+
+[Kaggle Notebooks](https://www.kaggle.com/code)
+
+[欢迎使用 Colab - Colab](https://colab.research.google.com/)
+
+[v86](https://copy.sh/v86/)
+
+[Webminal - Learn and Practise Linux online, Programming online](https://www.webminal.org/)
+
+[控制台 - AI Coding](https://aicoding.sh/console/wallet)
+
+[首页 - 电路设计学习指南R课堂](https://techclass.rohm.com.cn/)
+
+[Vercel: Build and deploy the best web experiences with the AI Cloud](https://vercel.com/)
+
+[Render | The cloud for builders](https://render.com/)
+
+[Koyeb: High-performance Infrastructure for APIs, Inference, and Databases](https://www.koyeb.com/)
+
+[Supabase | The Postgres Development Platform.](https://supabase.com/)
+
+[All Projects | Cloud: MongoDB Cloud](https://cloud.mongodb.com/)
+
+[Cloudflare Pages](https://pages.cloudflare.com/)
+
+[Cloudflare Workers](https://workers.cloudflare.com/)
+
+[New API](https://1xm.ai/console/personal)
+
+[Newgrounds.com — Everything, By Everyone](https://www.newgrounds.com/)
+
+[Snapchat – Say it in a Snap](https://www.snapchat.com/)
+
+[Neocities: Create your own free website!](https://neocities.org/)
+
+[Download the latest indie games - itch.io](https://itch.io/)
+
+[Game Jolt - Share your creations](https://gamejolt.com/)
+
+[DeviantArt - The Largest Online Art Gallery and Community](https://www.deviantart.com/)
+
+[Stream and listen to music online for free with SoundCloud](https://soundcloud.com/)
+
+[Vimeo - All-in-One Video Platform](https://vimeo.com/?wpsrc=Organic+Search&wpsn=www.google.com)
+
+[Letterboxd • Social film discovery.](https://letterboxd.com/)
+
+[Home | Archive of Our Own](https://archiveofourown.org/)
+
+[Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine](https://archive.org/)
+
+[Yours for the making](https://www.instructables.com/)
+
+[Roblox](https://www.roblox.com/)
+
+[Grailed: Online Marketplace to Buy Fashion](https://www.grailed.com/)
+
+[Substack](https://substack.com/)
+
+[Erowid](https://www.erowid.org/)
+
+[DistroWatch.com: Put the fun back into computing. Use Linux, BSD.](https://distrowatch.com/)
+
+[Rate My Professors](https://www.ratemyprofessors.com/)
+
+[Glassdoor | Job Search and Career Community](https://www.glassdoor.sg/)
+
+[4chan](https://4chan.org/)
+
+[Tumblr 上的热门话题](https://www.tumblr.com/)
+
+[Wattpad - Where stories live](https://www.wattpad.com/)
+
+[MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)
+
+[腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴](https://www.codebuddy.cn/home/)
+
+[编码套餐看板](https://coding-plans.jqknono.com/#domestic)
+
+[Sejda helps with your PDF tasks](https://www.sejda.com/)
+
+[OfoxAI - GPT/Claude/Gemini 100+大模型 一个API搞定 | OfoxAI](https://ofox.ai/zh)
+
+[Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
+
+[LangChain: Observe, Evaluate, and Deploy Reliable AI Agents](https://www.langchain.com/)
+
+[仪表盘 - 蓝通 您的专业伙伴、无墙、低延迟、干净住宅IP](https://www.ltyun.xyz/#/dashboard)
+
+[Maestral](https://maestral.app/)
+
+[Syncthing](https://syncthing.net/)
+
+[Flow - 在线 EPUB 阅读器](https://www.flowoss.com/zh-CN)
+
+[Imgur: The magic of the Internet](https://imgur.com/)
+
+[欢迎 - 阮的文档](https://docs.zxiaoruan.cn/vibe-coding/%E6%AC%A2%E8%BF%8E)
+
+[Hugging Face – The AI community building the future.](https://huggingface.co/)
+
+[Scribd.VDownloaders.com - Scribd.com downloader](https://scribd.vdownloaders.com/)
+
+[首页 | 极客侠GeeksMan](https://docs.geeksman.com/)
+
+[电路 - Tinkercad](https://www.tinkercad.com/circuits)
+
+[立创开源硬件平台](https://oshwhub.com/)
+
+[电子森林](https://www.eetree.cn/)
+
+[夸克网盘分享](https://pan.quark.cn/s/328e6ef29c4a#/list/share)
+
+[Source Insight – Programming Editor, Browser, and Analyzer](https://www.sourceinsight.com/)
+
+[闲鱼 - 闲不住？上闲鱼！](https://www.goofish.com/)
+
+[SuperCLUE中文大模型测评基准-AI评测榜单](https://www.superclueai.com/generalpage)
+
+[糖果梦热榜 - 实时AI榜 · 全网最强AI榜](https://tgmeng.com/tgmeng)
+
+[新聊天 | Z.ai - Free AI Chatbot & Agent powered by GLM-5 & GLM-4.7](https://chat.z.ai/)
+
+[Kimi AI 官网 - K2.5 上线](https://www.kimi.com/)
+
+[Blog - Vellum](https://www.vellum.ai/blog)
+
+[猫目 - 探索AIGC无限可能 | 最好的AI工具导航](https://maomu.com/)
+
+[LLM Leaderboard - Best Text & Chat AI Models Compared](https://arena.ai/leaderboard/text)
+
+[嘉立创学堂 | 电子设计实战培训 | PCB教程/硬件开发课程/免费学习资源](https://www.jlc-bbs.com/platform/study/home)
+
+[MakerWorld：免费下载 3D 模型](https://makerworld.com.cn/zh)
+
+[平台概览 - OneNET物联网平台](https://onenet.hk.chinamobile.com/console/summary)
+
+[首页 - Canva可画](https://www.canva.com/)
+
+[Zekhi Houghton's team – Figma](https://www.figma.com/files/team)
+
+[日记](https://dayone.me/journals/)
+
+[Zekhi Houghton的时间线 | Journey.Cloud](https://journey.cloud/app/timeline)
+
+[Font Meme: Fonts & Typography Resource](https://fontmeme.com/)
+
+[极光导航-简约资源网址导航](https://www.jigdh.com/)
+
+[隐暂\_我的故事分享社区 - Powered by Discuz!](https://www.zanyinjianghu.com/)
+
+[Explore AI tools | Freepik AI](https://www.freepik.com/app)
+
+[Picsart](https://picsart.com/create/)
+
+[电源工程师一生的伙伴-电源网](https://www.dianyuan.com/)
+
+[德州仪器（TI）官方视频课程培训 - 21ic电子网](https://edu.21ic.com/)
+
+[混合信号和数字信号处理IC | Analog Devices](https://www.analog.com/cn/index.html)
+
+[电源工程师技术培训网](https://www.ee-training.com/home/index/index.html)
+
+[电子行业权威垂直网站-elecinfo电子信息网](https://www.elecinfo.com/)
+
+[电源管理论坛 - 电源管理 - E2E™ 设计支持](https://e2echina.ti.com/support/power-management/f/power-management-forum)
+
+[SIMetrix Circuit Design and Simulation--](https://www.simetrix.co.uk/index.html)
+
+[华夏泰科咨询集团-专精特新中小企业公共服务示范平台](https://www.huaxiataike.com/)
+
+[金蝶云社区|专业的产业互联网社区|财务金融企业信息化|IT精英人脉社群-金蝶云社区官网](https://vip.kingdee.com/?productId=1&productLineId=1&lang=zh-CN)
+
+[SLUM: The Shadow Library Uptime Monitor](https://open-slum.org/)
+
+[ruanyf/document-style-guide: 中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+
+[Home - Replit](https://replit.com/~)
+
+[Anything - AI app builder](https://www.anything.com/)
+
+[Accio：AI 商业助手，与阿里巴巴联合开发](https://www.accio.com/)
+
+[nodepad](https://www.nodepad.space/)
+
+[IELTS Reading Past Papers](https://ielts-reading-past-papers.vercel.app/home)
+
+[AI杂货铺的小店 - 链动小铺](https://pay.ldxp.cn/shop/aistore)
+
+[ME AI](https://api.meai.cloud/console)
+
+[A Great Vim Cheat Sheet](https://vimsheet.com/)
+
+[OpenVim - Interactive Vim tutorial - Sandbox](https://openvim.com/sandbox.html)
+
+[explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
+
+[门户首页 - DaWang](https://cp.dawangidc.com/index.php)
+
+[FreeCAD: Your own 3D parametric modeler](https://www.freecad.org/)
+
+[面板 - Tinkercad](https://www.tinkercad.com/dashboard)
+
+[未命名绘图 - draw.io](https://app.diagrams.net/)
+
+[盈米基金且慢平台](https://qieman.com/)
+
+[Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/)
+
+[SparkFun Electronics - SparkFun Electronics](https://www.sparkfun.com/)
+
+[Python GUIs – Create GUI applications with Python and Qt](https://www.pythonguis.com/)
+
+[Qt for Python](https://doc.qt.io/qtforpython-6/)
+
+[Circuit Simulator Applet](https://www.falstad.com/circuit/)
+
+[仿真 - 介绍 | 嘉立创EDA标准版用户指南](https://docs.lceda.cn/cn/Simulation/Chapter1-Introduction/)
+
+[Wokwi - World's most advanced ESP32 Simulator](https://wokwi.com/)
+
+[嵌入式仿真实验教学平台](https://app.puliedu.com/#/)
+
+[电赛TI:简易PID入门项目 | 立创开发板技术文档中心](https://wiki.lckfb.com/zh-hans/tmx-mspm0g3507/training/easy-pid-beginner-kit/)
+
+[Microsoft MakeCode for micro:bit](https://makecode.microbit.org/)
+
+[EMQ 问答社区](https://askemq.com/)
+
+[CODESYS Group](https://www.codesys.com/)
+
+[CANoe | SIL & HIL Test Platform Across Industries | Vector](https://www.vector.com/int/en/products/products-a-z/software/canoe/#)
+
+[Python Tutorials – Real Python](https://realpython.com/)
+
+[秘塔回响](https://metaso.cn/echo)
+
+[freedesktop](https://www.freedesktop.org/)
+
+[World Bank Group - International Development, Poverty and Sustainability](https://www.worldbank.org/ext/en/home)
+
+[Poverty, Prosperity, and Planet Report 2024](https://www.worldbank.org/en/publication/poverty-prosperity-and-planet)
+
+[GaryProbe｜把整个调试台，握在手里。](https://www.garycli.com/)
+
+[Arm Developer](https://developer.arm.com/)
+
+[Learning - Free Webinars, Videos, Newsletters, Seminars, Online Training - STMicroelectronics](https://www.st.com/content/st_com/en/support/learning.html)
+
+[cobalt](https://cobalt.meowing.de/)
+
+[Alfred - Productivity App for macOS](https://www.alfredapp.com/)
+
+[Window Maker Live](https://wmlive.sourceforge.net/)
+
+[腾讯营销-助力企业实现营销目标](https://e.qq.com/ads)
+
+[Assembly Tutorials: Learn Z80 Assembly Programming... With ChibiAkumas!](https://www.chibiakumas.com/)
+
+[博客 — Lingua Mundi](https://www.worldlangmap.com/zh/blog)
+
+[威特猛男性健康知识 - 我们信奉"自然养生"的理念，秉持传统智慧与现代科技相结合的理念，为大众提供高品质的健康辅助品](https://menshealth.vitroman.com/zh-hans/)
+
+
+
+[首页 -ToolkitOn](https://www.toolkiton.com/)
+
+[Latest News - Office of the Historian](https://history.state.gov/)
+
+[Google 日历](https://calendar.google.com/)
+
+[crper/Visual-Studio-Code-CNKEYMAP: Visual Studio Code快捷键中文版](https://github.com/crper/Visual-Studio-Code-CNKEYMAP)
+
+[VSCode 备忘清单 & vscode cheatsheet & Quick Reference](https://quickref.me/zh-CN/docs/vscode.html)
+
+[在 EarsonMe 探索、订阅并收听海量优质播客节目，支持评论互动与个性推荐，让你不错过每一个精彩时刻。 - EarsOnMe - 精选播客，一听即合](https://earsonme.com/)
+
+[集思录](https://www.jisilu.cn/)
+
+[金山文档 | WPS云文档](https://www.kdocs.cn/?show=all)
+
+[考拉软件-专注分享实用软件](https://www.rjctx.com/)
+
+[Tlink物联网-工业物联网平台](https://www.tlink.io/)
+
+[入门指南 — ESP-AT 用户指南 文档](https://docs.espressif.com/projects/esp-at/zh-cn/release-v2.3.0.0_esp8266/Get_Started/index.html)
+
+[学生教育优惠项目导航 - edu邮箱认证](https://nav.edumails.cn/)
+
+[Certified laptops | Ubuntu](https://ubuntu.com/certified/laptops?vendor=Lenovo)
+
+[Home - Linux Mint](https://linuxmint.com/)
+
+[uni-app官网](https://uniapp.dcloud.net.cn/)
+
+[cpolar官网-安全的内网穿透工具 | 无需公网ip | 远程访问 | 搭建网站](https://www.cpolar.com/)
+
+[Download Postman | Get Started for Free](https://www.postman.com/downloads/)
+
+
+
+[MIT App Inventor](https://appinventor.mit.edu/)
+
+[电脑USB虚拟示波器、频谱分析仪、信号发生器、音频分析仪、声级计、声压计、噪音分析仪、振动测试-虚仪科技](https://www.multi-tech.cn/)
+
+
+**在线电路绘图与仿真**
+- [Circuitjs web 在线电路模拟器](https://cc.xiaogd.net/)
+- [Open Circuits](https://new.opencircuits.net/editor)
+
+[Affinity | Professional Creative Software, Free for Everyone](https://www.affinity.studio/)
+
+[无忧免费游戏网-每日更新游戏资源免费下载，一站在手，游戏无忧！](https://www.wygamer.com/)
+
+[简介 | OS in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/zh/)
+
+[Windows应用开发文档 - Windows apps | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/apps/)
+
+[Thea](https://www.thea.study/)
+
+[Personality Cafe](https://www.personalitycafe.com/)
+
+[IP Geolocation API and IP Location Lookup Tools](https://ipwhois.io/)
+
+[查看我的 IP 地址 | 查询本机 IP 地址及归属地 | ip.skk.moe | Sukka](https://ip.skk.moe/)
+
+[Scamalytics](https://scamalytics.com/)
+
+[卡饭论坛\_最好的软件论坛\_讨论 - 互助分享 - 大气谦和!](https://bbs.kafan.cn/)
+
+[LazyTyper官网 - 免费精准的Whisper语音输入，支持中英日韩等多语言混输](https://lazytyper.com/zh)
+
+[NodeSeek](https://www.nodeseek.com/)
+
+[来自 ¥13.95 的 VPS 服务器 | JustHosting](https://just.hosting/zh)
+
+[Mass VPS hosting on Enterprise equipment - BandwagonHost VPS](https://bandwagonhost.com/)
+
+[Instructure: Leading EdTech for K–12, Higher Ed & Business](https://www.instructure.com/)
+
+
+[WaveDrom - Digital timing diagram everywhere](https://wavedrom.com/)
+
+[Learning](https://codegym.cc/progress)
+
+[2026最新机场导航 - 高速稳定翻墙VPN收集与优惠码](https://www.114514417.xyz/)
+
+[RunCode - 人人可用 · 语言无界 · 随时编码](https://runcode.blendviewer.com/)
+
+[Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
+
+[Structure and Interpretation of Computer Programs](https://romanbird.github.io/sicp/)
+
+
+
+[PTC Mathcad Prime | PTC](https://www.ptc.com/en/products/mathcad)
+
+[Dashboard | Boot.dev](https://www.boot.dev/dashboard)
+
+[Home | STM32-base project](https://stm32-base.org/)
+
+[Cloud Shell](https://shell.cloud.google.com/)
+
+[CleanShot X for Mac](https://cleanshot.com/)
+
+[Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
+
+移动收藏夹
+- [一日千词](https://yrqc.cn/)
+- [thecsharpacademy](https://thecsharpacademy.com/)
+- [Learn C++ – Skill up with our free tutorials](https://www.learncpp.com/)
+- [Go Interview Practice - Master Go Programming with Interactive Challenges](https://app.gointerview.dev/)
+
+
+## 法学政治学社会学
+
+## 经济学
+**行业投资**
+- [巨潮资讯网](https://www.cninfo.com.cn/)
+- [发现报告](https://www.fxbaogao.com/)
+- [艾瑞网](https://report.iresearch.cn/)
+- [行行查](https://www.hanghangcha.com/)
+- [萝卜投研](https://robo.datayes.com/)
+- [日经中文网](https://cn.nikkei.com/)
+
+**投资数据**
+- [见微数据](https://www.jianweidata.com/)
+
+## 文学
+**字典与词典**
+- [Mdict](https://mdict.org/)
+- [FreeMdict Forum](https://forum.freemdict.com/)
+- [牛津高阶英汉双解词典（第10版）](https://oalecd10.cp.com.cn/#/desktop/dict)
+- [汉典](https://zdic.net/)
+- [漢語多功能字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+- [zi.tools](https://zi.tools/)
+- [Wiktionary](https://en.wiktionary.org/wiki/)
+
+**字体**
+- [Font Squirrel](https://www.fontsquirrel.com/)
+- [DaFont](https://www.dafont.com/)
+- [字由官网](https://www.hellofont.cn/home)
+
+**在线中文书籍**
+- [中國哲學書電子化計劃](https://ctext.org/zhs)
+- [5000言：国学经典-传统文化](https://5000yan.com/)
