@@ -18,11 +18,9 @@
 
 ### 云盘
 
-[OneDrive](https://onedrive.live.com/)
-
-[坚果云](https://www.jianguoyun.com/)
-
-[Teambition](https://www.teambition.com/organization/664c7f78123e1702417fe175/my)
+- [OneDrive](https://onedrive.live.com/)
+- [坚果云](https://www.jianguoyun.com/)
+- [Teambition](https://www.teambition.com/organization/664c7f78123e1702417fe175/my)
 
 [123云盘](https://www.123pan.com/)
 
