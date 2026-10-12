@@ -1,56 +1,64 @@
 # （我眼中的）互联网信息网站
 ## 规范
-互联网
+**（我眼中的）人类世界与互联网**
+四维时空里的人类社会（实体运转与现实信息、人类活动与人类知识）有什么-互联网的作用（利用实体运转，投射现实信息与人类知识，减少人类活动参与；集中人类因果交互）
+
+**人类的输入-处理-输出模型**
+- 输入
+对实体的感知（视觉、听觉），对实体存在性的感知（感觉、直觉）
+- 处理
+归纳论思考（实体感知，从实体归纳原理）、目的论思考（实体存在性感知，从预设推演现实）
+- 输出
+主动，被动
+
+**互联网的工具性**
+- 替代搜索：搜索引擎
+互联网的信息性
+- 展示工具
+-   电路仿真
 ## 目录
-## 
 
 
+# 工具
+## 搜索引擎
+**中国**
+- 百度
+- 搜狗
+- 360
+- 夸克
+**外国**
+- Google
+- Bing
+- duckduckgo
+- searx
+- startpage
+- Ecosia
+- [Yahoo](https://www.yahoo.com/)
 
-
-
-## 互联网工具
-
-### 搜索引擎
-
-
-
-[Yahoo](https://www.yahoo.com/)
-
-### 云盘
-
-- [OneDrive](https://onedrive.live.com/)
+## 云盘
+**中国云盘**
 - [坚果云](https://www.jianguoyun.com/)
 - [Teambition](https://www.teambition.com/organization/664c7f78123e1702417fe175/my)
+- [123云盘](https://www.123pan.com/)
+- [阿里云盘](https://www.alipan.com/drive/file/all)
+- [百度网盘](https://yun.baidu.com/disk/main#/index?category=all)
+- [蓝奏·云存储](https://up.woozooo.com/)
+**外国云盘**
+- [OneDrive](https://onedrive.live.com/)
+- [Google Drive](https://drive.google.com/drive/home)
+- [Dropbox.com](https://www.dropbox.com/)
+**手机云盘**
+- [OPPO云服务官网](https://cloud.oppo.com/)
+- [欢太云服务官网](https://cloud.heytap.com/)
+- [华为云空间](https://cloud.huawei.com/)
+**专用云盘**
+- [Photos - Google Photos](https://photos.google.com/)
 
-[123云盘](https://www.123pan.com/)
-
-[OPPO云服务官网](https://cloud.oppo.com/)
-
-[欢太云服务官网](https://cloud.heytap.com/)
-
-[Photos - Google Photos](https://photos.google.com/)
-
-[Dropbox.com](https://www.dropbox.com/)
-
-[阿里云盘](https://www.alipan.com/drive/file/all)
-
-[百度网盘](https://yun.baidu.com/disk/main#/index?category=all)
-
-[华为云空间](https://cloud.huawei.com/)
-
-[蓝奏·云存储](https://up.woozooo.com/)
-
-[Google Drive](https://drive.google.com/drive/home)
-
-### 官方信息
-
-[中国政府网\_中央人民政府门户网站](https://www.gov.cn/)
-
-### 文档
-
-[我的桌面 - 石墨文档](https://shimo.im/desktop)
-
-[金山文档 | WPS云文档](https://www.kdocs.cn/latest?from=docs)
+## 文档软件
+### 笔记软件
+**Word文档**
+- [我的桌面 - 石墨文档](https://shimo.im/desktop)
+- [金山文档 | WPS云文档](https://www.kdocs.cn/latest?from=docs)
 
 [欧路词典](https://dict.eudic.net/)
 
@@ -94,7 +102,7 @@
 
 [BetterExplained – Math lessons that click](https://betterexplained.com/)
 
-### 网络博客
+### 个人博客
 
 [霁月难逢，彩云易散](https://botaoruhai.github.io/)
 
@@ -128,24 +136,20 @@
 
 ### 思维导图
 
-[Simple Mindmap](https://simplemindmap.com/)
+- [Simple Mindmap](https://simplemindmap.com/)
+- [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
+- [思维导图](https://www.mindline.cn/webapp)
+- - [Xmind](https://xmind.ai/home/my-works)
+- [Lynkage](https://www.lynkage.cn/)
+- [幕布](https://mubu.com/app)
+- [知犀](https://www.zhixi.com/space?page=owner)
 
-[思维导图](https://www.mindline.cn/webapp)
+## 网络工具
+### 聊天工具
+- [Telegram Web](https://web.telegram.org/)
 
-[Xmind AI: The Best AI Brainstorming & Mind Mapping Tool](https://xmind.ai/home/my-works)
-
-[Lynkage 概念图 | 概念地图 | 思维导图 | 流程图 | 更有意义的脑图工具 | 绘制自己的知识地图](https://www.lynkage.cn/)
-
-[我的文档 - 幕布](https://mubu.com/app)
-
-[知犀](https://www.zhixi.com/space?page=owner)
-
-[SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
-
-### 网络社区
-
-[Telegram Web](https://web.telegram.org/)
-
+### 社区
+**中文社区**
 [Reddit](http://reddit.com/)
 
 [reddit: the front page of the internet](https://old.reddit.com/)
@@ -294,6 +298,7 @@
 
 [讯飞听见](https://www.iflyrec.com/zhuanwenzi.html)
 
+# 互联网信息
 ## 电学
 
 ### 论坛
@@ -985,52 +990,35 @@
 ### 壁纸头像
 
 [「哲风壁纸」](https://haowallpaper.com/homeView)
-
 [Wallpics](https://wallpics.app/)
 
-### 影视资源
-
+### 影视
+**在线影视**
 [热播新剧 - 茶杯狐](https://cupfox.app/list/%E7%83%AD%E6%92%AD%E6%96%B0%E5%89%A7/tv_%E7%83%AD%E9%97%A8)
-
 [神马影院 | 海量高清电影，在线随心看](https://smhub5.cc/)
-
 [樱花动漫－专注动漫的门户网站](http://www.iyinghua.com/)
-
+[影视狗 - 网飞影视剧集如意搜](https://www.yingshi.dog/)
+**影视字幕**
 [分享交流下载字幕平台 - SubHD](https://subhd.tv/)
 
-[影视狗 - 网飞影视剧集如意搜](https://www.yingshi.dog/)
-
 ### 软件资源
+**通用**
+- [吾爱破解](https://www.52pojie.cn/forum.php?mod=collection)
+- [423down](https://www.423down.com/)
+- [filecr](https://filecr.com/en-us/)
+- [4分贝](https://4fb.cn/)
 
-### 通用
+**游戏**
+- [Switch520](https://www.gamer520.com/)
+- [Cкачать игры на ПК \[последние версии 2025\] через торрент бесплатно](https://byrutgame.org/)
+- [Game Share - 游戏分享社区](https://www.gameshare.cc/)
+- [XDGAME - 专注单机游戏试玩及正版推荐！](https://www.xdgame.com/)
 
-[吾爱破解](https://www.52pojie.cn/forum.php?mod=collection)
-
-[423down](https://www.423down.com/)
-
-[filecr](https://filecr.com/en-us/)
-
-[4分贝](https://4fb.cn/)
-
-### 游戏
-
-[Switch520](https://www.gamer520.com/)
-
-[Cкачать игры на ПК \[последние версии 2025\] через торрент бесплатно](https://byrutgame.org/)
-
-[Game Share - 游戏分享社区](https://www.gameshare.cc/)
-
-[XDGAME - 专注单机游戏试玩及正版推荐！](https://www.xdgame.com/)
-
-### Mac
-
-[Old Mac Software Archive - Macintosh Repository](https://www.macintoshrepository.org/)
-
-[MacKed - 专注于mac软件分享与下载](https://macked.app/)
-
-[MacWk - 精品mac软件下载](https://macwk.cn/)
-
-[MacFk - 艾麦克 专注分享精品Mac电脑软件](https://www.macfk.com/)
+**Mac**
+- [Old Mac Software Archive - Macintosh Repository](https://www.macintoshrepository.org/)
+- [MacKed - 专注于mac软件分享与下载](https://macked.app/)
+- [MacWk - 精品mac软件下载](https://macwk.cn/)
+- [MacFk - 艾麦克 专注分享精品Mac电脑软件](https://www.macfk.com/)
 
 ## Tutorial
 
