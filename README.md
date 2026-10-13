@@ -89,16 +89,19 @@
 - [Twitter](https://twitter.com/)
 - [LinkedIn](https://www.linkedin.com/)
 - [Pinterest](https://www.pinterest.com/)
+- [Imgur](http://imgur.com/)
 - [Tumblr](https://www.tumblr.com/)
 - [Instagram](https://www.instagram.com/)
 
 ## 视频与音频
-**音频软件**
+**音频**
 - [Listen Notes](https://www.listennotes.com/)
+- [小宇宙播客](https://www.xiaoyuzhoufm.com/)
 - [飞书妙记](https://jxnl6c8z68w.feishu.cn/minutes/home)
 - [通义听悟](https://tingwu.aliyun.com/home)
 - [讯飞听见](https://huiji.iflyrec.com/list)
 - [钉钉AI 听记](https://shanji.dingtalk.com/app/transcribes-list)
+- [CPod](https://github.com/z-------------/CPod)
 
 **视频剪辑**
 - [Kdenlive](https://kdenlive.org/zh-cn/)
@@ -111,13 +114,13 @@
 
 **Markdown笔记软件**
 
-
 **Markdown在线**
 - [Markdown Online](https://www.markdownonline.net/)
 - [Upmath](https://upmath.me/)
 
 **Typst**
 - [Typst](https://typst.app/)
+- [The Raindrop-Blue Book](https://typst-doc-cn.github.io/tutorial/)
 
 ### 思维导图
 - [Simple Mindmap](https://simplemindmap.com/)
@@ -128,14 +131,20 @@
 - [幕布](https://mubu.com/app)
 - [知犀](https://www.zhixi.com/space?page=owner)
 
-### pdf软件
+### pdf与图片
+**PDF阅读器**
 - [PDFgear](https://www.pdfgear.com/)
 - [Okular - 通用文档查看器](https://okular.kde.org/zh-cn/)
 - [iLovePDF](https://www.ilovepdf.com/zh-cn)：为PDF爱好者提供的PDF文件在线处理工具。
 
-[图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版](https://web.baimiaoapp.com/)
+**OCR**
+- [白描App](https://baimiao.uzero.cn/)：[白描网页版](https://web.baimiaoapp.com/)，[Baimiao PDF](https://pdf.baimiaoapp.com/)。
+- [MinerU](https://mineru.net/OpenSourceTools/Extractor)
 
-[MinerU-免费全能的文档解析神器](https://mineru.net/OpenSourceTools/Extractor)
+### 电子书阅读器
+- [Flow](https://www.flowoss.com/zh-CN)：在线 EPUB 阅读器。
+- [Neat Reader](https://www.neat-reader.cn/)：本地，网页。
+
 
 ### Latex
 **latex官网与社区**
@@ -164,6 +173,18 @@
 - [TablesGenerator](https://www.tablesgenerator.com/)
 - [MathWrite](https://www.mathwrite.com/en/latex)：图片或 PDF 转 LaTeX
 
+### AI
+**外国 AI**
+- [Claude](https://claude.com/)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+
+**中国 AI**
+- [Kimi](https://www.kimi.com/)
+- [豆包](https://www.doubao.com/chat/)
+
+**AI 服务**
+- [Perplexity](https://www.perplexity.ai/)
+
 
 [欢乐图书馆](https://www.thinkdoc.vip/)
 
@@ -175,9 +196,6 @@
 
 [Devhints — TL;DR for developer documentation](https://devhints.io/)
 
-
-
-[Linux.MBA「Most Badass Admin」最强管理员社区 - Linux.MBA「Most Badass Admin」最强管理员社区](https://linux.mba/)
 
 [Productivity Tips & Workflow Automation Guides | Zapier Blog](https://zapier.com/blog/)
 
@@ -213,7 +231,6 @@
 
 [Blind](https://www.teamblind.com/?sort=relevant)
 
-[Neat Reader - Web App](https://www.neat-reader.cn/webapp#/)
 
 [Practice English Dictation with YouTube Videos](https://www.fluentdictation.com/)
 
@@ -225,9 +242,6 @@
 [兔子API](https://api.tu-zi.com/)
 
 [EEVblog Electronics Community Forum - Index](https://www.eevblog.com/forum/index.php)
-
-[Imgur](http://imgur.com/)
-
 
 
 ## 网络工具
@@ -251,8 +265,6 @@
 [IT互联网-鸡啄米](http://www.jizhuomi.com/internet/)
 
 [中文技术文档写作风格指南 — 中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh-cn/latest/)
-
-[DeepL翻译：全世界最准确的翻译](https://www.deepl.com/zh/translator)
 
 [新国志 | 有关新加坡政治、社会、文化的报道、分析与评论](https://xinguozhi.wordpress.com/)
 
@@ -410,6 +422,8 @@
 - [卡饭论坛](https://bbs.kafan.cn/)
 
 **英文CS论坛**
+- [hacker news](https://news.ycombinator.com/)
+- [programming.dev](https://programming.dev/)
 
 ### 文档与手册
 **CS文档**
@@ -425,6 +439,10 @@
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet?tab=readme-ov-file)
 - [i Hate Regex](https://ihateregex.io/)
 - [Cheat-sheet editor](https://cheatsheets-editor.com/)
+
+### 代码托管平台
+- GitHub
+- GitLab
 
 [Welcome • freemediaheckyeah](https://fmhy.net/)
 
@@ -545,7 +563,7 @@
 
 
 
-[The Raindrop-Blue Book (Typst中文教程)](https://typst-doc-cn.github.io/tutorial/)
+
 
 [How to Pronounce English Like a Native | Youglish](https://youglish.com/)
 
@@ -753,7 +771,7 @@
 
 [Figma: The Collaborative Interface Design Tool](https://www.figma.com/)
 
-[cobalt](https://cobalt.tools/)
+[cobalt](https://cobalt.tools/)：bilibili下载。
 
 [IUP - Portable User Interface](https://www.tecgraf.puc-rio.br/iup/)
 
@@ -775,7 +793,6 @@
 
 [PhET: Free online physics, chemistry, biology, earth science and math simulations](https://phet.colorado.edu/)
 
-[面板 - Tinkercad](https://www.tinkercad.com/dashboard)
 
 [falstad.com/circuit/circuitjs.html](https://www.falstad.com/circuit/circuitjs.html)
 
@@ -858,18 +875,15 @@
 [Reverso Context](https://context.reverso.net/translation/)
 
 ### 电路仿真
+**本地仿真**
+- [Multisim - NI](https://www.ni.com/docs/en-US/category/multisim-docs)
 
-[EveryCircuit](https://everycircuit.com/app)
-
-[Multisim Live Online Circuit Simulator](https://www.multisim.com/)
-
-[Online circuit simulator & schematic editor - CircuitLab](https://www.circuitlab.com/)
-
-[Online-Offline Circuit Simulator for Analog, Digital & MCU Circuits](https://www.tina.com/)
-
-
-
-
+**在线仿真**
+- [EveryCircuit](https://everycircuit.com/app)
+- [Multisim Live](https://www.multisim.com/)
+- [CircuitLab](https://www.circuitlab.com/)
+- [Tina](https://www.tina.com/)
+- [Tinkercad](https://www.tinkercad.com/)
 
 ### 软件开发
 
@@ -882,25 +896,13 @@
 [Unity](https://unity.com/cn)
 
 
-
-### 网络社区
-
-[hacker news](https://news.ycombinator.com/)
-
-[LINUX DO](https://linux.do/)
-
-[programming.dev - A collection of programming communities](https://programming.dev/)
-
-
-
-
-
 ### 操作系统
 #### Linux
 **官网及论坛**
-[Linux.org](https://linux.org/)
-[ArchWiki](https://wiki.archlinux.org/title/Main_page)
-[Linux中国](https://linux-cn.net/)
+- [Linux.org](https://linux.org/)
+- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
+- [Linux中国](https://linux-cn.net/)
+- [FreeBSD 中文社区](https://book.bsdcn.org/)
 
 ### 编程语言
 **经典题目挑战**
@@ -912,6 +914,7 @@
 #### 汇编语言
 - [Compiler Explorer](https://godbolt.org/)
 - [MASM32 SDK](https://masm32.com/)
+- [Crackmes.one](https://crackmes.one/)
 
 #### Lua
 - [The Programming Language Lua](https://www.lua.org/home.html)
@@ -922,10 +925,8 @@
 - [AutoHotkey Community](https://www.autohotkey.com/boards/)
 - [快速参考 | AutoHotkey v2](https://wyagd001.github.io/v2/docs/index.htm)
 - [AutoAHK – 让电脑更懂你！](https://www.autoahk.com/)
+- [AutoHotkey Wiki \[AutoHotkey Wiki\]](https://autohotkey.wiki/start)
 
-
-
-[AutoHotkey Wiki \[AutoHotkey Wiki\]](https://autohotkey.wiki/start)
 #### Rust
 - [Rust 程序设计语言](https://doc.rust-lang.net.cn/stable/book/title-page.html)
 
@@ -940,6 +941,8 @@
 - [EasyX Graphics Library for C++](https://easyx.cn/)
 - [The GTK Project - A free and open-source cross-platform widget toolkit](https://www.gtk.org/)
 - [Cprogramming.com](https://www.cprogramming.com/)
+
+- [Commercial Software Solutions for Ada, SPARK, Rust, C and… | AdaCore](https://www.adacore.com/)
 
 #### C#
 - [C# Tutorial](https://www.csharptutorial.net/)
@@ -959,6 +962,7 @@
 - [EditPlus - Text editor with FTP, FTPS and sftp capabilities](https://www.editplus.com/)
 - [Notepad3 – Rizonesoft.com](https://rizonesoft.com/downloads/notepad3/)
 - [Zed](https://zed.dev/)
+- [EmEditor](https://www.emeditor.com/)
 - Vim
     - [Vim: help.txt](https://vimhelp.org/)
     - [VIM常用快捷键和插件整理 | CatBro's Blog](https://catbro666.github.io/posts/d6ca5270/)
@@ -966,17 +970,6 @@
     - [VIM 中文帮助: 总览及快速参考](https://yianwillis.github.io/vimcdoc/doc/help.html)
 
 ### AI
-**外国 AI**
-- [Claude](https://claude.com/)
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-
-**中国 AI**
-- [Kimi](https://www.kimi.com/)
-- [豆包](https://www.doubao.com/chat/)
-
-**AI 服务**
-- [Perplexity](https://www.perplexity.ai/)
-
 **AI 相关工具**
 - AI Detector
 
@@ -992,6 +985,7 @@
 - [Home | Google Antigravity Docs](https://antigravity.google/docs/home/)
 - [Docs - Kiro](https://kiro.dev/docs/)
 - [Cursor Docs](https://cursor.com/docs)：Agent, Rules, MCP, Skills & CLI.
+- [腾讯云代码助手 CodeBuddy](https://www.codebuddy.cn/home/)
 
 ## 资源
 ### 云盘资源
@@ -1000,12 +994,12 @@
 
 ### 影视
 **在线影视**
-[热播新剧 - 茶杯狐](https://cupfox.app/list/%E7%83%AD%E6%92%AD%E6%96%B0%E5%89%A7/tv_%E7%83%AD%E9%97%A8)
-[神马影院 | 海量高清电影，在线随心看](https://smhub5.cc/)
-[樱花动漫－专注动漫的门户网站](http://www.iyinghua.com/)
-[影视狗 - 网飞影视剧集如意搜](https://www.yingshi.dog/)
+- [热播新剧 - 茶杯狐](https://cupfox.app/list/%E7%83%AD%E6%92%AD%E6%96%B0%E5%89%A7/tv_%E7%83%AD%E9%97%A8)
+- [神马影院 | 海量高清电影，在线随心看](https://smhub5.cc/)
+- [樱花动漫－专注动漫的门户网站](http://www.iyinghua.com/)
+- [影视狗 - 网飞影视剧集如意搜](https://www.yingshi.dog/)
 **影视字幕**
-[分享交流下载字幕平台 - SubHD](https://subhd.tv/)
+-  [分享交流下载字幕平台 - SubHD](https://subhd.tv/)
 
 ### 软件资源
 **通用**
@@ -1120,20 +1114,12 @@
 [从零开始手搓数据库(Go)](https://systems-programming.org/database_zh/)
 
 
-
+嵌入式系统仿真
 - [gpsim](https://gpsim.sourceforge.net/)
 - [Renode](https://renode.readthedocs.io/en/latest/)
 - [QEMU](https://www.qemu.org/documentation/)
 
 [NandGame](https://nandgame.com/)：Build a computer from scratch.
-
-[Crackmes.one](https://crackmes.one/)
-
-
-
-[下载Multisim - NI](https://www.ni.com/zh-cn/support/downloads/software-products/download.multisim.html#452133)
-
-
 
 [Anaconda.org](https://anaconda.org/)
 
@@ -1156,19 +1142,15 @@
 
 [npm | Home](https://www.npmjs.com/)
 
-[Google Antigravity](https://antigravity.google/)
+[Hackster.io](https://www.hackster.io/)
 
+[Udemy](https://www.udemy.com/)
 
-
-[Hackster.io - The community dedicated to learning hardware.](https://www.hackster.io/)
-
-[Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
-
-[FreeCourseSite - Download Udemy Paid Courses For Free](https://fcsnew.net/)
+[FreeCourseSite](https://fcsnew.net/)：Download Udemy Paid Courses For Free.
 
 [英文名大全 免费取英文名 好听的英文名字 英文名](https://en.oicq88.com/)
 
-[Documentaries - watch free online documentaries - ihavenotv.com](https://ihavenotv.com/)
+[Documentaries -ihavenotv.com](https://ihavenotv.com/)
 
 [Immersive Math](https://immersivemath.com/ila/#)
 
@@ -1178,9 +1160,9 @@
 
 [Home | Arduino Cloud](https://app.arduino.cc/)
 
-[Icarus Verilog — Icarus Verilog documentation](https://steveicarus.github.io/iverilog/)
-
-[Verilog.com](https://www.verilog.com/)
+### Verilog
+- [Verilog.com](https://www.verilog.com/)
+- [Icarus Verilog](https://steveicarus.github.io/iverilog/)
 
 [Sysinternals - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/)
 
@@ -1206,16 +1188,12 @@
 
 [唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载](https://www.jijidown.com/)
 
-[Snipaste](https://www.snipaste.com/)
+**截图软件**
+- [Snipaste](https://www.snipaste.com/)
 
 [NetSarang Website – Windows to Linux Network Connectivity Solutions](https://www.xshell.com/zh/)
 
 [WinPcap - Home](https://www.winpcap.org/)
-
-
-[超星客户端专区-超星阅读器windows版](https://ssreader.chaoxing.com/)
-
-[EmEditor (Text Editor) – Best Text Editor, Code Editor, CSV Editor, Large File Viewer for Windows (Free versions available)](https://www.emeditor.com/)
 
 [IBM SPSS Statistics](https://www.ibm.com/products/spss-statistics)
 
@@ -1226,8 +1204,6 @@
 [jabref.org](https://www.jabref.org/)
 
 [知云文献翻译PC版官网](https://www.zhiyunwenxian.cn/)
-
-[致美化 - 视觉美化研究平台](https://zhutix.com/)
 
 [SAI绘画软件-SAI漫画CG绘画工具](https://www.sai2.com.cn/)
 
@@ -1303,7 +1279,8 @@
 
 [High Performance Browser Networking (O'Reilly)](https://hpbn.co/#toc)
 
-[Logisim](https://cburch.com/logisim/)
+**数字电路软件**
+- [Logisim](https://cburch.com/logisim/)
 
 [数字电路教程](https://vlab.ustc.edu.cn/guide/index.html)
 
@@ -1345,7 +1322,6 @@
 
 [AFFiNE - All In One KnowledgeOS](https://affine.pro/zhHans)
 
-[Free ChatGPT Site List- 这儿为你准备了众多免费好用的ChatGPT镜像站点](https://ai55.cc/)
 
 [PackyAPI](https://www.packyapi.com/)
 
@@ -1471,7 +1447,7 @@
 
 [MyAnimeList.net - Anime and Manga Database and Community](https://myanimelist.net/)
 
-[腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴](https://www.codebuddy.cn/home/)
+
 
 [编码套餐看板](https://coding-plans.jqknono.com/#domestic)
 
@@ -1488,8 +1464,6 @@
 [Maestral](https://maestral.app/)
 
 [Syncthing](https://syncthing.net/)
-
-[Flow - 在线 EPUB 阅读器](https://www.flowoss.com/zh-CN)
 
 [Imgur: The magic of the Internet](https://imgur.com/)
 
@@ -1748,7 +1722,6 @@
 [Structure and Interpretation of Computer Programs](https://romanbird.github.io/sicp/)
 
 
-
 [PTC Mathcad Prime | PTC](https://www.ptc.com/en/products/mathcad)
 
 [Dashboard | Boot.dev](https://www.boot.dev/dashboard)
@@ -1808,6 +1781,9 @@
 - [DaFont](https://www.dafont.com/)
 - [字由官网](https://www.hellofont.cn/home)
 
+### 翻译
+- [DeepL翻译](https://www.deepl.com/zh/translator)
+
 **在线中文书籍**
 - [中國哲學書電子化計劃](https://ctext.org/zhs)
 - [5000言：国学经典-传统文化](https://5000yan.com/)
@@ -1818,3 +1794,7 @@
 
 **艺术**
 - [Color Hunt](https://colorhunt.co/)：颜色及其 RGB。
+- [致美化 - 视觉美化研究平台](https://zhutix.com/)
+
+### 科研
+- [超星客户端专区](https://ssreader.chaoxing.com/)
