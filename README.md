@@ -24,6 +24,22 @@
 
 
 # 互联网工具
+## 邮箱
+**中文邮箱**
+- [QQ邮箱](https://mail.qq.com/)
+- [网易邮箱6.0版](https://mail.163.com/)
+- [腾讯企业邮箱](https://exmail.qq.com/)
+
+**外文邮箱**
+- [Proton Mail](https://mail.proton.me/)
+- [Gmail](https://mail.google.com/)
+
+## 日历与待办
+- [Tasks](https://tasks.google.com/tasks/)
+- [Google Keep](https://keep.google.com/#home)
+- [Google Calendar](https://calendar.google.com/)
+- [日历 - Outlook](https://outlook.live.com/calendar)
+
 ## 搜索引擎
 **中国**
 - 百度
@@ -75,6 +91,8 @@
 - [过早客](https://www.guozaoke.com/)
 - [V2EX](https://www.v2ex.com/)
 - [LINUX DO](https://linux.do/)
+- [NodeSeek](https://www.nodeseek.com/)
+- [w2solo](https://w2solo.com/)：独立开发者社区。
 
 **外文论坛**
 - [reddit](http://www.reddit.com/)
@@ -92,6 +110,7 @@
 - [Imgur](http://imgur.com/)
 - [Tumblr](https://www.tumblr.com/)
 - [Instagram](https://www.instagram.com/)
+- [Snapchat](https://www.snapchat.com/)
 
 ## 视频与音频
 **音频**
@@ -99,12 +118,21 @@
 - [小宇宙播客](https://www.xiaoyuzhoufm.com/)
 - [飞书妙记](https://jxnl6c8z68w.feishu.cn/minutes/home)
 - [通义听悟](https://tingwu.aliyun.com/home)
-- [讯飞听见](https://huiji.iflyrec.com/list)
+- [讯飞听见](https://www.iflyrec.com/zhuanwenzi.html)
 - [钉钉AI 听记](https://shanji.dingtalk.com/app/transcribes-list)
 - [CPod](https://github.com/z-------------/CPod)
+- [机核 GCORES](https://www.gcores.com/)
+
+**视频网站**
+- [YouTube](https://youtube.com/)
+
+**视频播放软件**
+- [MPC-HC](https://mpc-hc.org/)
 
 **视频剪辑**
 - [Kdenlive](https://kdenlive.org/zh-cn/)
+- [OpenCut](https://opencut.app/)
+- [剪映官网](https://www.jianying.com/)
 
 ## 文档软件
 ### 笔记软件
@@ -112,7 +140,25 @@
 - [石墨文档](https://shimo.im/desktop)
 - [WPS云文档](https://www.kdocs.cn/latest?from=docs)
 
-**Markdown笔记软件**
+**一代笔记软件**
+- 有道云笔记
+- 印象笔记
+- [Joplin](https://joplinapp.org/)
+
+**二代笔记软件**
+- [飞书云文档](https://my.feishu.cn/wiki/)
+- [语雀](https://www.yuque.com/dashboard)
+- [notion](https://www.notion.so/)
+- [flowus](https://flowus.cn/)
+
+**三代笔记软件**
+- [RemNote](https://www.remnote.com/)
+- Obsidian
+
+> [!Note] 如何应对一个领域同级复杂的知识-如何选择笔记软件
+> 面对诸多笔记软件，自然会感到目不暇接。如何掌握其中的区别？自然会有多种路线：
+> - 逐个尝试，逐个认识：实践感会很强烈，但需要较长时间认识。
+> - 根据官方文档与他人评价，列出其发展的路线：体验感不强，但利于直观与选择。
 
 **Markdown在线**
 - [Markdown Online](https://www.markdownonline.net/)
@@ -123,8 +169,8 @@
 - [The Raindrop-Blue Book](https://typst-doc-cn.github.io/tutorial/)
 
 ### 思维导图
-- [Simple Mindmap](https://simplemindmap.com/)
-- [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
+- [Simple Mindmap Official](https://simplemindmap.com/)
+- [SimpleMindMap Instance](https://wanglin2.github.io/mind-map-docs/)
 - [思维导图](https://www.mindline.cn/webapp)
 - [Xmind](https://xmind.ai/home/my-works)
 - [Lynkage](https://www.lynkage.cn/)
@@ -173,7 +219,7 @@
 - [TablesGenerator](https://www.tablesgenerator.com/)
 - [MathWrite](https://www.mathwrite.com/en/latex)：图片或 PDF 转 LaTeX
 
-### AI
+## AI
 **外国 AI**
 - [Claude](https://claude.com/)
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
@@ -181,6 +227,7 @@
 **中国 AI**
 - [Kimi](https://www.kimi.com/)
 - [豆包](https://www.doubao.com/chat/)
+- 千问：[千问-阿里 AI 助手](https://www.qianwen.com/)，[Qwen](https://chat.qwen.ai/)。
 
 **AI 服务**
 - [Perplexity](https://www.perplexity.ai/)
@@ -215,8 +262,6 @@
 
 [《中国大百科全书》第三版网络版](https://www.zgbk.com/)
 
-[w2solo - 独立开发者社区](https://w2solo.com/)
-
 [BetterExplained – Math lessons that click](https://betterexplained.com/)  
 
 
@@ -235,8 +280,6 @@
 [Practice English Dictation with YouTube Videos](https://www.fluentdictation.com/)
 
 [Language Reactor](https://www.languagereactor.com/)
-
-
 [DistroWatch](https://distrowatch.com/)
 
 [兔子API](https://api.tu-zi.com/)
@@ -288,8 +331,6 @@
 
 [UAA.COM](https://www.uaa.com/jav)
 
-[NodeSeek](https://www.nodeseek.com/)
-
 [AriaNg GUI](https://aria-ng.xmader.com/#/)
 
 [个人笔记](https://www.8uid.com/)
@@ -302,53 +343,15 @@
 
 [Perfect English Grammar](https://www.perfect-english-grammar.com/)
 
-### 邮箱
-
-[QQ邮箱](https://mail.qq.com/cgi-bin/frame_html?sid=wVtmF8PNZdWWTHob&r=e012e8fad1487705a4a8d0f906895128)
-
-[网易邮箱6.0版](https://mail.163.com/js6/main.jsp?sid=YDZohpytVZPOAsXXHTttGbeJjDdXYbZs&df=mail163_letter#module=mbox.ListModule%7C%7B%22filter%22%3A%7B%22flags%22%3A%7B%22read%22%3Afalse%7D%7D%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%2C%22fids%22%3A%5B1%2C3%5D%7D)
-
-[Proton Mail](https://mail.proton.me/u/2/inbox?welcome=true)
-
-[腾讯企业邮箱](https://exmail.qq.com/cgi-bin/frame_html?sid=JweREn2mSioxKwZi,2&sign_type=&r=1e84583e42fff99900d4ff29b21a95d2)
-
-[Gmail](https://mail.google.com/mail/mu/mp/727/#tl/Inbox)
-
-### 待办
-
-[Tasks](https://tasks.google.com/tasks/)
-
-[Google Keep](https://keep.google.com/#home)
-
-[Google Calendar](https://calendar.google.com/)
-
-[日历 - Outlook](https://outlook.live.com/calendar)
 
 ### 学习网站
-
 [网易公开课](https://open.163.com/)
-
 [我要自学网](https://www.51zxw.net/)
-
-### 二代三代
-
-[知识库 - 飞书云文档](https://jxnl6c8z68w.feishu.cn/wiki/)
-
-[工作台 · 语雀](https://www.yuque.com/dashboard)
-
-[Personal Home-notion](https://www.notion.so/dfbwy1/Personal-Home-48ae1803f9eb4155bfe02b50f4f9a152)
-
-[RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
-
-[flowus](https://flowus.cn/dfbwy/2ed855b4-85df-4597-b109-e9ae5ad70c9e)
-
-
 
 [信任的进化](https://dccxi.com/trust/)
 
 [#UNTAG](https://utgd.net/)
 
-[讯飞听见](https://www.iflyrec.com/zhuanwenzi.html)
 
 # 互联网信息
 ## 哲学历史学
@@ -383,6 +386,7 @@
 - [TechCrunch](http://techcrunch.com/)
 
 ## 数理化
+### 中国应试
 
 ### 数学
 **综合性个人网站与博客**
@@ -553,8 +557,6 @@
 
 [Hello from All-in-One 搞基手册 | All-in-One 搞基手册](https://allinone.quickso.cn/)
 
-[机核 GCORES](https://www.gcores.com/)
-
 [巴哈姆特電玩資訊站](https://www.gamer.com.tw/)
 
 [蜜柑计划 - Mikan Project](https://mikanani.me/)
@@ -567,11 +569,6 @@
 
 [Pedagoguery Software: GrafEq](http://www.peda.com/grafeq/)
 
-
-
-
-
-[How to Pronounce English Like a Native | Youglish](https://youglish.com/)
 
 [YARN | Search clips by quote](https://getyarn.io/)
 
@@ -709,7 +706,8 @@
 
 [论坛 - 数学建模社区-数学中国](http://www.madio.net/forum.php)
 
-[从 01 开始](https://www.peterjxl.com/)
+**个人博客**
+- [从 01 开始](https://www.peterjxl.com/)
 
 [主页 | AList](http://47.92.175.157:5244/)
 
@@ -888,6 +886,9 @@
 
 [Unity](https://unity.com/cn)
 
+### 计算机组成原理
+**从门电路到操作系统**
+- [nand2tetris](https://www.nand2tetris.org/)
 
 ### 操作系统
 #### Linux
@@ -897,14 +898,23 @@
 - [Linux中国](https://linux-cn.net/)
 - [FreeBSD 中文社区](https://book.bsdcn.org/)
 
-### 编程语言
+### EE Programming Language
+#### Verilog
+- [Verilog.com](https://www.verilog.com/)
+- [Icarus Verilog](https://steveicarus.github.io/iverilog/)
+
+### Programming Language
 **经典题目挑战**
 - [力扣 (LeetCode)](https://leetcode.cn/)
 
 **编程语言及技术学习**
 - [codegym](https://codegym.cc/progress)
 
-#### 汇编语言
+#### Assembly
+**Tutorial**
+- [ChibiAkumas](https://www.chibiakumas.com/)
+
+**Toolkit**
 - [Compiler Explorer](https://godbolt.org/)
 - [MASM32 SDK](https://masm32.com/)
 - [Crackmes.one](https://crackmes.one/)
@@ -962,6 +972,8 @@
     - [VIM常用快捷键和插件整理 | CatBro's Blog](https://catbro666.github.io/posts/d6ca5270/)
     - [VIM Adventures](https://vim-adventures.com/)
     - [VIM 中文帮助: 总览及快速参考](https://yianwillis.github.io/vimcdoc/doc/help.html)
+    - [A Great Vim Cheat Sheet](https://vimsheet.com/)
+    - [OpenVim](https://openvim.com/sandbox.html): Interactive Vim tutorial.
 
 ### AI
 **AI 相关工具**
@@ -1016,13 +1028,7 @@
 - [MacWk - 精品mac软件下载](https://macwk.cn/)
 - [MacFk - 艾麦克 专注分享精品Mac电脑软件](https://www.macfk.com/)
 
-## Tutorial
-
 ### Frequently Used
-
-
-[YouTube](https://youtube.com/)
-
 [Amazon.com](https://www.amazon.com/)
 
 [Pandora](http://www.pandora.com/)
@@ -1120,10 +1126,6 @@
 
 [2D animation software, Flash animation | Adobe Animate](https://www.adobe.com/products/animate.html)
 
-
-
-[nand2tetris](https://www.nand2tetris.org/)
-
 [正版软件商城丨APSGO软购商城](https://apsgo.com/)
 
 [botrh | Netlify](https://app.netlify.com/teams/botrh/projects)
@@ -1140,7 +1142,6 @@
 [Hackster.io](https://www.hackster.io/)
 
 [Udemy](https://www.udemy.com/)
-
 [FreeCourseSite](https://fcsnew.net/)：Download Udemy Paid Courses For Free.
 
 [英文名大全 免费取英文名 好听的英文名字 英文名](https://en.oicq88.com/)
@@ -1155,15 +1156,7 @@
 
 [Home | Arduino Cloud](https://app.arduino.cc/)
 
-### Verilog
-- [Verilog.com](https://www.verilog.com/)
-- [Icarus Verilog](https://steveicarus.github.io/iverilog/)
-
 [Sysinternals - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/)
-
-[OpenCut](https://opencut.app/projects)
-
-[我的草稿 | 全能视频编辑器 | CapCut](https://www.jianying.com/my-edit?start_tab=video)
 
 [浩辰CAD软件官网-CAD软件下载\_国产正版CAD制图软件,全球用户超1亿](https://www.gstarcad.com/)
 
@@ -1205,8 +1198,6 @@
 [Your Gateway to Embedded Software Development Excellence · PlatformIO](https://platformio.org/)
 
 [XYplorer - File Manager for Windows](https://www.xyplorer.com/)
-
-[Home · MPC-HC](https://mpc-hc.org/)
 
 [下载 K-Lite 编解码器包 --- Download K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
 
@@ -1390,8 +1381,6 @@
 
 [Newgrounds.com — Everything, By Everyone](https://www.newgrounds.com/)
 
-[Snapchat – Say it in a Snap](https://www.snapchat.com/)
-
 [Neocities: Create your own free website!](https://neocities.org/)
 
 [Download the latest indie games - itch.io](https://itch.io/)
@@ -1462,7 +1451,6 @@
 
 [首页 | 极客侠GeeksMan](https://docs.geeksman.com/)
 
-[电路 - Tinkercad](https://www.tinkercad.com/circuits)
 
 [立创开源硬件平台](https://oshwhub.com/)
 
@@ -1548,17 +1536,11 @@
 
 [ME AI](https://api.meai.cloud/console)
 
-[A Great Vim Cheat Sheet](https://vimsheet.com/)
-
-[OpenVim - Interactive Vim tutorial - Sandbox](https://openvim.com/sandbox.html)
-
 [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
 
 [门户首页 - DaWang](https://cp.dawangidc.com/index.php)
 
 [FreeCAD: Your own 3D parametric modeler](https://www.freecad.org/)
-
-[面板 - Tinkercad](https://www.tinkercad.com/dashboard)
 
 [未命名绘图 - draw.io](https://app.diagrams.net/)
 
@@ -1614,7 +1596,7 @@
 
 [腾讯营销-助力企业实现营销目标](https://e.qq.com/ads)
 
-[Assembly Tutorials: Learn Z80 Assembly Programming... With ChibiAkumas!](https://www.chibiakumas.com/)
+
 
 [博客 — Lingua Mundi](https://www.worldlangmap.com/zh/blog)
 
@@ -1776,6 +1758,9 @@
 **在线中文书籍**
 - [中國哲學書電子化計劃](https://ctext.org/zhs)
 - [5000言：国学经典-传统文化](https://5000yan.com/)
+
+### 音
+- [Youglish](https://youglish.com/)
 
 ### 壁纸头像
 - [哲风壁纸](https://haowallpaper.com/homeView)
