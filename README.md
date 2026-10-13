@@ -40,6 +40,9 @@
 - Ecosia
 - [Yahoo](https://www.yahoo.com/)
 
+**垂直搜索**
+- [AlternativeTo](https://alternativeto.net/)
+
 ## 云盘
 **中国云盘**
 - [坚果云](https://www.jianguoyun.com/)
@@ -89,6 +92,17 @@
 - [Tumblr](https://www.tumblr.com/)
 - [Instagram](https://www.instagram.com/)
 
+## 视频与音频
+**音频软件**
+- [Listen Notes](https://www.listennotes.com/)
+- [飞书妙记](https://jxnl6c8z68w.feishu.cn/minutes/home)
+- [通义听悟](https://tingwu.aliyun.com/home)
+- [讯飞听见](https://huiji.iflyrec.com/list)
+- [钉钉AI 听记](https://shanji.dingtalk.com/app/transcribes-list)
+
+**视频剪辑**
+- [Kdenlive](https://kdenlive.org/zh-cn/)
+
 ## 文档软件
 ### 笔记软件
 **Word文档**
@@ -128,6 +142,7 @@
 - [LaTeX.org](https://latex.org/forum/index.php)
 
 **本地latex编辑与绘图**
+- [LyX](https://www.lyx.org/)
 - [TikZiT](https://tikzit.github.io/index.html)
 
 **在线latex编辑**
@@ -135,6 +150,7 @@
 - [TeXPage](https://www.texpage.com/console)
 - [LaTex Editor](https://latex-editor.pages.dev/)
 - [Papeeria](https://papeeria.com/)
+- [LaTeX.Online](https://latexonline.cc/)：在线编译 LaTeX 到 PDF，失效了。
 
 **在线latex绘图**
 - [Mathcha](https://www.mathcha.io/)
@@ -147,8 +163,6 @@
 **在线latex工具**
 - [TablesGenerator](https://www.tablesgenerator.com/)
 - [MathWrite](https://www.mathwrite.com/en/latex)：图片或 PDF 转 LaTeX
-
-
 
 
 [欢乐图书馆](https://www.thinkdoc.vip/)
@@ -1100,9 +1114,6 @@
 
 [TreeSize – Official Free Download](https://www.jam-software.com/treesize)
 
-[Kdenlive - 自由与开源的视频编辑器](https://kdenlive.org/zh-cn/)
-
-[AlternativeTo - Crowdsourced software recommendations | AlternativeTo](https://alternativeto.net/)
 
 [botrh - 控制面板 - Codeberg.org](https://codeberg.org/)
 
@@ -1110,9 +1121,11 @@
 
 
 
-[gpsim](https://gpsim.sourceforge.net/gpsim.html#shots)
+- [gpsim](https://gpsim.sourceforge.net/)
+- [Renode](https://renode.readthedocs.io/en/latest/)
+- [QEMU](https://www.qemu.org/documentation/)
 
-[NandGame - Build a computer from scratch.](https://nandgame.com/)
+[NandGame](https://nandgame.com/)：Build a computer from scratch.
 
 [Crackmes.one](https://crackmes.one/)
 
@@ -1128,29 +1141,22 @@
 
 
 
-[Home | nand2tetris](https://www.nand2tetris.org/)
+[nand2tetris](https://www.nand2tetris.org/)
 
 [正版软件商城丨APSGO软购商城](https://apsgo.com/)
 
 [botrh | Netlify](https://app.netlify.com/teams/botrh/projects)
-
 [Firebase console](https://console.firebase.google.com/)
-
 [Cloud Computing Services | Google Cloud](https://cloud.google.com/)
+
 
 [Algodoo](https://www.algodoo.com/)
 
-
-
 [PyPI · The Python Package Index](https://pypi.org/)
-
-
 
 [npm | Home](https://www.npmjs.com/)
 
 [Google Antigravity](https://antigravity.google/)
-
-[LaTeX.Online - cloud compiler LaTeX to PDF](https://latexonline.cc/)
 
 
 
@@ -1318,16 +1324,6 @@
 [DPlayer](https://dplayer.diygod.dev/)
 
 [文革与当代史研究网 - Powered by Discuz!](https://difangwenge.org/)
-
-[Listen Notes: The best podcast search engine](https://www.listennotes.com/)
-
-[主页 - 飞书妙记](https://jxnl6c8z68w.feishu.cn/minutes/home)
-
-[首页 - 通义听悟](https://tingwu.aliyun.com/home)
-
-[讯飞听见-AI智能会议纪要，电脑录音工具-语音记录生成工作总结](https://huiji.iflyrec.com/list)
-
-[钉钉AI 听记](https://shanji.dingtalk.com/app/transcribes-list)
 
 [STMCU中文官网](https://www.stmcu.com.cn/Designresource/list/STM32%20MCU/document/document)
 
