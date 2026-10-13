@@ -352,6 +352,14 @@
 
 # 互联网信息
 ## 哲学历史学
+**历史资源导航**
+- [数字历史](http://www.shuzilishi.com/)
+
+**历史概览**
+- [历史地图 - 交互式历史地理信息可视化平台](https://wowhistorymap.com/)
+
+**历史资料**
+- [时光图书馆--经典珍藏系列，十年相伴！](https://atimebook.com/)
 
 **宗教**
 - [丰盛恩典网站](https://wellsofgrace.com/index.htm)
@@ -386,6 +394,13 @@
 
 **个人网站与博客**
 - [阿尔法微积分](http://www.alphacalculus.com/)
+
+#### 线性代数
+**课程资源**
+- [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+
+**计算工具**
+- [Matrix Calculator](https://matrix-operations.com/)
 
 #### 数学绘图
 - [Runiter](https://www.runiter.com/)
@@ -446,11 +461,7 @@
 
 [Welcome • freemediaheckyeah](https://fmhy.net/)
 
-
-
 [w3school 在线教程](https://www.w3school.com.cn/)
-
-[Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 [DayDayUp｜考研小伙伴之家](https://v.ddup.io/)
 
@@ -471,7 +482,6 @@
 
 [Free Magazines PDF](https://freemagazines.top/)
 
-[特征分解（矩阵对角化）](https://matrix-operations.com/zh/eigen-decomposition)
 
 [Studying of mathematics online](https://onlinemschool.com/)
 
@@ -480,10 +490,6 @@
 [Gofile - Cloud Storage Made Simple](https://gofile.io/home)
 
 [Flathub - Apps for Linux](https://flathub.org/en)
-
-
-
-[Visual Basic docs - get started, tutorials, reference. | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 [【全球液晶屏交易中心 - 屏库】](https://www.panelook.cn/)
 
@@ -850,29 +856,16 @@
 
 ### 数学计算
 
-[GNU Octave](https://www.octave.org/)
-
-[Scilab | Scilab](https://www.scilab.org/)
-
-[atozmath.com](https://atozmath.com/)
-
-[Mathos | AI Math Solver & Calculator](https://www.mathgptpro.com/)
-
-[Wolfram|Alpha](https://www.wolframalpha.com/)
-
-[Wolfram Cloud](https://www.wolframcloud.com/)
-
-[数字帝国 - 数学工具箱](https://zh.numberempire.com/)
-
-[Symbolab – Trusted Online AI Math Solver & Smart Math Calculator](https://www.symbolab.com/)
-
-[分步计算器MathDF](https://mathdf.com/cn/)
-
-[矩阵计算器](https://matrixcalc.org/zh-CN/)
-
-### 英语
-
-[Reverso Context](https://context.reverso.net/translation/)
+- [GNU Octave](https://www.octave.org/)
+- [Scilab | Scilab](https://www.scilab.org/)
+- [atozmath.com](https://atozmath.com/)
+- [Mathos | AI Math Solver & Calculator](https://www.mathgptpro.com/)
+- [Wolfram|Alpha](https://www.wolframalpha.com/)
+- [Wolfram Cloud](https://www.wolframcloud.com/)
+- [数字帝国 - 数学工具箱](https://zh.numberempire.com/)
+- [Symbolab – Trusted Online AI Math Solver & Smart Math Calculator](https://www.symbolab.com/)
+- [分步计算器MathDF](https://mathdf.com/cn/)
+- [矩阵计算器](https://matrixcalc.org/zh-CN/)
 
 ### 电路仿真
 **本地仿真**
@@ -947,7 +940,8 @@
 #### C#
 - [C# Tutorial](https://www.csharptutorial.net/)
 
-#### VB
+#### Visual Basic
+- [Visual Basic docs Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 - [Learn Visual Basic](https://www.vbtutor.net/)：VB6 and VB.NET Tutorials for Beginners.
 
 ### CS工具
@@ -986,6 +980,7 @@
 - [Docs - Kiro](https://kiro.dev/docs/)
 - [Cursor Docs](https://cursor.com/docs)：Agent, Rules, MCP, Skills & CLI.
 - [腾讯云代码助手 CodeBuddy](https://www.codebuddy.cn/home/)
+- [Devin](https://devin.ai/)
 
 ## 资源
 ### 云盘资源
@@ -1166,10 +1161,6 @@
 
 [Sysinternals - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/)
 
-[数字历史](http://www.shuzilishi.com/)
-
-[时光图书馆--经典珍藏系列，十年相伴！](https://atimebook.com/)
-
 [OpenCut](https://opencut.app/projects)
 
 [我的草稿 | 全能视频编辑器 | CapCut](https://www.jianying.com/my-edit?start_tab=video)
@@ -1300,8 +1291,6 @@
 
 [DPlayer](https://dplayer.diygod.dev/)
 
-[文革与当代史研究网 - Powered by Discuz!](https://difangwenge.org/)
-
 [STMCU中文官网](https://www.stmcu.com.cn/Designresource/list/STM32%20MCU/document/document)
 
 [End of the Internet](https://hmpg.net/)
@@ -1340,8 +1329,6 @@
 [Linguno - Language learning tools](https://www.linguno.com/)
 
 [神经科学原理](https://openhutb.github.io/neuro/#content)
-
-[历史地图 - 交互式历史地理信息可视化平台](https://wowhistorymap.com/)
 
 [english-corpora.org](https://www.english-corpora.org/)
 
@@ -1775,6 +1762,7 @@
 - [Wiktionary](https://en.wiktionary.org/wiki/)
 - [欧路词典](https://dict.eudic.net/)
 - [Urban Dictionary](https://www.urbandictionary.com/)
+- [Reverso Context](https://context.reverso.net/translation/)
 
 **字体**
 - [Font Squirrel](https://www.fontsquirrel.com/)
@@ -1783,6 +1771,7 @@
 
 ### 翻译
 - [DeepL翻译](https://www.deepl.com/zh/translator)
+- 
 
 **在线中文书籍**
 - [中國哲學書電子化計劃](https://ctext.org/zhs)
