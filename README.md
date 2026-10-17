@@ -58,6 +58,7 @@
 
 **垂直搜索**
 - [AlternativeTo](https://alternativeto.net/)
+- [EncycloSearch](https://encyclosearch.org/)
 
 ## 云盘
 **中国云盘**
